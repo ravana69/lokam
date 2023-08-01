@@ -1,10 +1,660 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-31T01:25:13.298Z</id>
+    <id>urn:2023-08-01T01:39:43.983Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-31T01:25:13.298Z</updated>
+    <updated>2023-08-01T01:39:43.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Good night]]></title>
+        <id>https://nitter.1d4.us/JhanviKapoorFa/status/1686111309450936322#m</id>
+        <link href="https://nitter.1d4.us/JhanviKapoorFa/status/1686111309450936322#m"/>
+        <updated>2023-07-31T20:27:17.000Z</updated>
+        <summary type="html"><![CDATA[Good night]]></summary>
+        <author>
+            <name>@JhanviKapoorFa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MonsterBaddie: #HBDMrunalThakur 😍
+Hottie Shape & Hip 🤤
+#Mrunal #MrunalThakur #MrunalThakurHot #KREditz08
+
+@halwa_thundu @JeevaBhai00 @itsmarkantony_ @Starleth3re_ @ActressRagnarok @TheDudeFellow]]></title>
+        <id>https://nitter.1d4.us/KREditz08/status/1686103321583706115#m</id>
+        <link href="https://nitter.1d4.us/KREditz08/status/1686103321583706115#m"/>
+        <updated>2023-07-31T19:55:32.000Z</updated>
+        <summary type="html"><![CDATA[#HBDMrunalThakur 😍
+#Mrunal #MrunalThakur #MrunalThakurHot #KREditz08
+@halwa_thundu @JeevaBhai00 @itsmarkantony_ @Starleth3re_ @ActressRagnarok @TheDudeFellow]]></summary>
+        <author>
+            <name>@KREditz08</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😋🤤]]></title>
+        <id>https://nitter.1d4.us/MonsterBaddie/status/1686096976646135809#m</id>
+        <link href="https://nitter.1d4.us/MonsterBaddie/status/1686096976646135809#m"/>
+        <updated>2023-07-31T19:30:20.000Z</updated>
+        <summary type="html"><![CDATA[😋🤤]]></summary>
+        <author>
+            <name>@MonsterBaddie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#PragyaNagra 💙😽]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1686090196566368256#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1686090196566368256#m"/>
+        <updated>2023-07-31T19:03:23.000Z</updated>
+        <summary type="html"><![CDATA[#PragyaNagra 💙😽]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#RaizaWilson ❤️]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1686089271596441605#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1686089271596441605#m"/>
+        <updated>2023-07-31T18:59:43.000Z</updated>
+        <summary type="html"><![CDATA[#RaizaWilson ❤️]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MonsterBaddie: Sandeepa Dhar 😍]]></title>
+        <id>https://nitter.1d4.us/midnightbaba/status/1686089229972160512#m</id>
+        <link href="https://nitter.1d4.us/midnightbaba/status/1686089229972160512#m"/>
+        <updated>2023-07-31T18:59:33.000Z</updated>
+        <summary type="html"><![CDATA[Sandeepa Dhar 😍]]></summary>
+        <author>
+            <name>@midnightbaba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#AlayaF @AlayaF___ 💚]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1686088813951774720#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1686088813951774720#m"/>
+        <updated>2023-07-31T18:57:53.000Z</updated>
+        <summary type="html"><![CDATA[#AlayaF @AlayaF___ 💚]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#SandeepaDhar 💞😍]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1686088782901305345#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1686088782901305345#m"/>
+        <updated>2023-07-31T18:57:46.000Z</updated>
+        <summary type="html"><![CDATA[#SandeepaDhar 💞😍]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @OnlyHeroines: 📸 @IamKrithiShetty]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1686088462666194945#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1686088462666194945#m"/>
+        <updated>2023-07-31T18:56:30.000Z</updated>
+        <summary type="html"><![CDATA[📸 @IamKrithiShetty]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MonsterBaddie: #HBDIndhujaRavichandran 😍
+Seductive Expressions 🤤
+#Indhuja #IndhujaRavichandran #KREditz08
+
+@halwa_thundu @JeevaBhai00 @itsmarkantony_ @Starleth3re_ @ActressRagnarok @TheDudeFellow]]></title>
+        <id>https://nitter.1d4.us/KREditz08/status/1686087541710282752#m</id>
+        <link href="https://nitter.1d4.us/KREditz08/status/1686087541710282752#m"/>
+        <updated>2023-07-31T18:52:50.000Z</updated>
+        <summary type="html"><![CDATA[#HBDIndhujaRavichandran 😍
+#Indhuja #IndhujaRavichandran #KREditz08
+@halwa_thundu @JeevaBhai00 @itsmarkantony_ @Starleth3re_ @ActressRagnarok @TheDudeFellow]]></summary>
+        <author>
+            <name>@KREditz08</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @OnlyHeroines: 📸 @priyankaamohan]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1686086171561189376#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1686086171561189376#m"/>
+        <updated>2023-07-31T18:47:23.000Z</updated>
+        <summary type="html"><![CDATA[📸 @priyankaamohan]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#SusmitaChatterjee 💘]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1686084993179947008#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1686084993179947008#m"/>
+        <updated>2023-07-31T18:42:42.000Z</updated>
+        <summary type="html"><![CDATA[#SusmitaChatterjee 💘]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam 😋]]></title>
+        <id>https://nitter.1d4.us/MonsterBaddie/status/1686077967695593473#m</id>
+        <link href="https://nitter.1d4.us/MonsterBaddie/status/1686077967695593473#m"/>
+        <updated>2023-07-31T18:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Sam 😋]]></summary>
+        <author>
+            <name>@MonsterBaddie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MonsterBaddie: Face 🥵💦
+
+#Iswaryamenon]]></title>
+        <id>https://nitter.1d4.us/midnightbaba/status/1686065372351602689#m</id>
+        <link href="https://nitter.1d4.us/midnightbaba/status/1686065372351602689#m"/>
+        <updated>2023-07-31T17:24:45.000Z</updated>
+        <summary type="html"><![CDATA[Face 🥵💦
+#Iswaryamenon]]></summary>
+        <author>
+            <name>@midnightbaba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aj Sweaty Pits 🥵💋]]></title>
+        <id>https://nitter.1d4.us/MonsterBaddie/status/1686064339411746830#m</id>
+        <link href="https://nitter.1d4.us/MonsterBaddie/status/1686064339411746830#m"/>
+        <updated>2023-07-31T17:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Aj Sweaty Pits 🥵💋]]></summary>
+        <author>
+            <name>@MonsterBaddie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MonsterBaddie: Kiara Advani 🥵🖤 The Expression Bomb 
+
+Follow @EroticEdits 
+
+#KiaraAdvani #KiaraAdvaniHot #HBDKiaraAdvani #eroticedits #bollywoodactress #ishwaryamenon #Samantha #TrishaKrishnan @mmc2345 @JeevaBhai00 @RaashiSena]]></title>
+        <id>https://nitter.1d4.us/EroticEdits/status/1686061300038897664#m</id>
+        <link href="https://nitter.1d4.us/EroticEdits/status/1686061300038897664#m"/>
+        <updated>2023-07-31T17:08:34.000Z</updated>
+        <summary type="html"><![CDATA[Kiara Advani 🥵🖤 The Expression Bomb 
+@EroticEdits 
+#KiaraAdvani #KiaraAdvaniHot #HBDKiaraAdvani #eroticedits #bollywoodactress #ishwaryamenon #Samantha #TrishaKrishnan @mmc2345 @JeevaBhai00 @RaashiSena]]></summary>
+        <author>
+            <name>@EroticEdits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disha Patani 🥵🔥]]></title>
+        <id>https://nitter.1d4.us/acviralhub/status/1686061120971558913#m</id>
+        <link href="https://nitter.1d4.us/acviralhub/status/1686061120971558913#m"/>
+        <updated>2023-07-31T17:07:51.000Z</updated>
+        <summary type="html"><![CDATA[Disha Patani 🥵🔥]]></summary>
+        <author>
+            <name>@acviralhub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MonsterBaddie: Happy 31st Birthday to the 's'expressions queen Kiara Advani! 🎂❤️‍🔥]]></title>
+        <id>https://nitter.1d4.us/SiddhaarthKajal/status/1686060425522417664#m</id>
+        <link href="https://nitter.1d4.us/SiddhaarthKajal/status/1686060425522417664#m"/>
+        <updated>2023-07-31T17:05:05.000Z</updated>
+        <summary type="html"><![CDATA[Happy 31st Birthday to the 's'expressions queen Kiara Advani! 🎂❤️‍🔥]]></summary>
+        <author>
+            <name>@SiddhaarthKajal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MonsterBaddie: Ek Dum Solid Maal 🥵
+
+#KetikaSharma]]></title>
+        <id>https://nitter.1d4.us/midnightbaba/status/1686060368114892800#m</id>
+        <link href="https://nitter.1d4.us/midnightbaba/status/1686060368114892800#m"/>
+        <updated>2023-07-31T17:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Ek Dum Solid Maal 🥵
+#KetikaSharma]]></summary>
+        <author>
+            <name>@midnightbaba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MonsterBaddie: Birthday Girl 🌸]]></title>
+        <id>https://nitter.1d4.us/Vamshii___/status/1686060270463172608#m</id>
+        <link href="https://nitter.1d4.us/Vamshii___/status/1686060270463172608#m"/>
+        <updated>2023-07-31T17:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Birthday Girl 🌸]]></summary>
+        <author>
+            <name>@Vamshii___</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MonsterBaddie: View Ass 🫣😍
+
+#KeerthySuresh #Keerthy 🤤]]></title>
+        <id>https://nitter.1d4.us/Vijay09880/status/1686059496677027840#m</id>
+        <link href="https://nitter.1d4.us/Vijay09880/status/1686059496677027840#m"/>
+        <updated>2023-07-31T17:01:24.000Z</updated>
+        <summary type="html"><![CDATA[View Ass 🫣😍
+#KeerthySuresh #Keerthy 🤤]]></summary>
+        <author>
+            <name>@Vijay09880</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anasuya 😋]]></title>
+        <id>https://nitter.1d4.us/MonsterBaddie/status/1686056539704975360#m</id>
+        <link href="https://nitter.1d4.us/MonsterBaddie/status/1686056539704975360#m"/>
+        <updated>2023-07-31T16:49:39.000Z</updated>
+        <summary type="html"><![CDATA[Anasuya 😋]]></summary>
+        <author>
+            <name>@MonsterBaddie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MonsterBaddie: 𝙆𝙞𝙖𝙧𝙖 𝘼𝙙𝙫𝙖𝙣𝙞 🥵🤤
+
+File Size: 502MB]]></title>
+        <id>https://nitter.1d4.us/tollycorner/status/1686050055122501632#m</id>
+        <link href="https://nitter.1d4.us/tollycorner/status/1686050055122501632#m"/>
+        <updated>2023-07-31T16:23:53.000Z</updated>
+        <summary type="html"><![CDATA[𝙆𝙞𝙖𝙧𝙖 𝘼𝙙𝙫𝙖𝙣𝙞 🥵🤤
+
+File Size: 502MB]]></summary>
+        <author>
+            <name>@tollycorner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saree adjustment 🫣🥵]]></title>
+        <id>https://nitter.1d4.us/Galaxyeditshd/status/1686047259161759744#m</id>
+        <link href="https://nitter.1d4.us/Galaxyeditshd/status/1686047259161759744#m"/>
+        <updated>2023-07-31T16:12:46.000Z</updated>
+        <summary type="html"><![CDATA[Saree adjustment 🫣🥵]]></summary>
+        <author>
+            <name>@Galaxyeditshd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🍨🤤👅]]></title>
+        <id>https://nitter.1d4.us/MonsterBaddie/status/1686044337648635904#m</id>
+        <link href="https://nitter.1d4.us/MonsterBaddie/status/1686044337648635904#m"/>
+        <updated>2023-07-31T16:01:09.000Z</updated>
+        <summary type="html"><![CDATA[🍨🤤👅]]></summary>
+        <author>
+            <name>@MonsterBaddie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MonsterBaddie: Tammy 😍
+
+#TamannaahBhatia]]></title>
+        <id>https://nitter.1d4.us/Vijay09880/status/1686037762338877440#m</id>
+        <link href="https://nitter.1d4.us/Vijay09880/status/1686037762338877440#m"/>
+        <updated>2023-07-31T15:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Tammy 😍
+#TamannaahBhatia]]></summary>
+        <author>
+            <name>@Vijay09880</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MonsterBaddie: Deepika Padukone 🥵
+HQ: https://t.me/ActressThanos]]></title>
+        <id>https://nitter.1d4.us/ActressThanos/status/1686034658570665984#m</id>
+        <link href="https://nitter.1d4.us/ActressThanos/status/1686034658570665984#m"/>
+        <updated>2023-07-31T15:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Deepika Padukone 🥵
+t.me/ActressThanos]]></summary>
+        <author>
+            <name>@ActressThanos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MonsterBaddie: Kiara Birthday Treat 😋]]></title>
+        <id>https://nitter.1d4.us/ActressSpy/status/1686030142118748160#m</id>
+        <link href="https://nitter.1d4.us/ActressSpy/status/1686030142118748160#m"/>
+        <updated>2023-07-31T15:04:45.000Z</updated>
+        <summary type="html"><![CDATA[Kiara Birthday Treat 😋]]></summary>
+        <author>
+            <name>@ActressSpy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#DhivyaDuraisamy 💙]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1686027763386343426#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1686027763386343426#m"/>
+        <updated>2023-07-31T14:55:18.000Z</updated>
+        <summary type="html"><![CDATA[#DhivyaDuraisamy 💙]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That butt 🥵🔥 #KiaraAdvani]]></title>
+        <id>https://nitter.1d4.us/GlamspotA/status/1686024345603207170#m</id>
+        <link href="https://nitter.1d4.us/GlamspotA/status/1686024345603207170#m"/>
+        <updated>2023-07-31T14:41:43.000Z</updated>
+        <summary type="html"><![CDATA[That butt 🥵🔥 #KiaraAdvani]]></summary>
+        <author>
+            <name>@GlamspotA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#MalavikaMohanan 💝😘]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1686015112958693376#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1686015112958693376#m"/>
+        <updated>2023-07-31T14:05:02.000Z</updated>
+        <summary type="html"><![CDATA[#MalavikaMohanan 💝😘]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#AnanyaPanday 😻💕]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1686014152991461382#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1686014152991461382#m"/>
+        <updated>2023-07-31T14:01:13.000Z</updated>
+        <summary type="html"><![CDATA[#AnanyaPanday 😻💕]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Tanya #TanyaRavichandran 💘😽]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1686013661591293952#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1686013661591293952#m"/>
+        <updated>2023-07-31T13:59:16.000Z</updated>
+        <summary type="html"><![CDATA[#Tanya #TanyaRavichandran 💘😽]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#EeshaRebba 💞😍]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1686012764119261184#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1686012764119261184#m"/>
+        <updated>2023-07-31T13:55:42.000Z</updated>
+        <summary type="html"><![CDATA[#EeshaRebba 💞😍]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Ivana 💙😘]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1686011861874126848#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1686011861874126848#m"/>
+        <updated>2023-07-31T13:52:07.000Z</updated>
+        <summary type="html"><![CDATA[#Ivana 💙😘]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiara Advani 🔥]]></title>
+        <id>https://nitter.1d4.us/acviralhub/status/1686002947258560512#m</id>
+        <link href="https://nitter.1d4.us/acviralhub/status/1686002947258560512#m"/>
+        <updated>2023-07-31T13:16:41.000Z</updated>
+        <summary type="html"><![CDATA[Kiara Advani 🔥]]></summary>
+        <author>
+            <name>@acviralhub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiara 🔥 Bday girl 🥵]]></title>
+        <id>https://nitter.1d4.us/Galaxyeditshd/status/1686000900882767872#m</id>
+        <link href="https://nitter.1d4.us/Galaxyeditshd/status/1686000900882767872#m"/>
+        <updated>2023-07-31T13:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Kiara 🔥 Bday girl 🥵]]></summary>
+        <author>
+            <name>@Galaxyeditshd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goddess Deepika Padukone 🥵🔥🛐]]></title>
+        <id>https://nitter.1d4.us/GlamspotA/status/1685989675146919936#m</id>
+        <link href="https://nitter.1d4.us/GlamspotA/status/1685989675146919936#m"/>
+        <updated>2023-07-31T12:23:57.000Z</updated>
+        <summary type="html"><![CDATA[Goddess Deepika Padukone 🥵🔥🛐]]></summary>
+        <author>
+            <name>@GlamspotA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#IswaryaMenon @Ishmenon ❤️😻]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1685986912086224897#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685986912086224897#m"/>
+        <updated>2023-07-31T12:12:58.000Z</updated>
+        <summary type="html"><![CDATA[#IswaryaMenon @Ishmenon ❤️😻]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#PriyankaMohan 💜😍]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1685986545717886976#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685986545717886976#m"/>
+        <updated>2023-07-31T12:11:31.000Z</updated>
+        <summary type="html"><![CDATA[#PriyankaMohan 💜😍]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Janani #JananiIyer 💝]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1685985787324895232#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685985787324895232#m"/>
+        <updated>2023-07-31T12:08:30.000Z</updated>
+        <summary type="html"><![CDATA[#Janani #JananiIyer 💝]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Kajal #KajalAggarwal 😘]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1685985553794396162#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685985553794396162#m"/>
+        <updated>2023-07-31T12:07:34.000Z</updated>
+        <summary type="html"><![CDATA[#Kajal #KajalAggarwal 😘]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Anikha #AnikhaSurendran 😽]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1685985335145361408#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685985335145361408#m"/>
+        <updated>2023-07-31T12:06:42.000Z</updated>
+        <summary type="html"><![CDATA[#Anikha #AnikhaSurendran 😽]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#RebaMonica #RebaMonicaJohn 💞]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1685985136423391232#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685985136423391232#m"/>
+        <updated>2023-07-31T12:05:55.000Z</updated>
+        <summary type="html"><![CDATA[#RebaMonica #RebaMonicaJohn 💞]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#ShruriReddy @ShrutiReddyy 💘]]></title>
+        <id>https://nitter.1d4.us/OnlyHeroines/status/1685984849973354496#m</id>
+        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685984849973354496#m"/>
+        <updated>2023-07-31T12:04:46.000Z</updated>
+        <summary type="html"><![CDATA[#ShruriReddy @ShrutiReddyy 💘]]></summary>
+        <author>
+            <name>@OnlyHeroines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deepika Padukone 🥵😍]]></title>
+        <id>https://nitter.1d4.us/acviralhub/status/1685982584248135682#m</id>
+        <link href="https://nitter.1d4.us/acviralhub/status/1685982584248135682#m"/>
+        <updated>2023-07-31T11:55:46.000Z</updated>
+        <summary type="html"><![CDATA[Deepika Padukone 🥵😍]]></summary>
+        <author>
+            <name>@acviralhub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @MonsterBaddie: Birthday Bomb Kiara 🥵🔥
+
+#KiaraAdvani]]></title>
+        <id>https://nitter.1d4.us/midnightbaba/status/1685967744016216064#m</id>
+        <link href="https://nitter.1d4.us/midnightbaba/status/1685967744016216064#m"/>
+        <updated>2023-07-31T10:56:48.000Z</updated>
+        <summary type="html"><![CDATA[Birthday Bomb Kiara 🥵🔥
+#KiaraAdvani]]></summary>
+        <author>
+            <name>@midnightbaba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jyotakka 💥💥🔥💥🔥🔥]]></title>
+        <id>https://nitter.1d4.us/alpha_leporis/status/1685953311470706688#m</id>
+        <link href="https://nitter.1d4.us/alpha_leporis/status/1685953311470706688#m"/>
+        <updated>2023-07-31T09:59:27.000Z</updated>
+        <summary type="html"><![CDATA[Jyotakka 💥💥🔥💥🔥🔥]]></summary>
+        <author>
+            <name>@alpha_leporis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tejaswini uff 🔥🔥🔥]]></title>
+        <id>https://nitter.1d4.us/alpha_leporis/status/1685953282567700480#m</id>
+        <link href="https://nitter.1d4.us/alpha_leporis/status/1685953282567700480#m"/>
+        <updated>2023-07-31T09:59:20.000Z</updated>
+        <summary type="html"><![CDATA[Tejaswini uff 🔥🔥🔥]]></summary>
+        <author>
+            <name>@alpha_leporis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satya navel 🔥💥]]></title>
+        <id>https://nitter.1d4.us/alpha_leporis/status/1685953126149533696#m</id>
+        <link href="https://nitter.1d4.us/alpha_leporis/status/1685953126149533696#m"/>
+        <updated>2023-07-31T09:58:43.000Z</updated>
+        <summary type="html"><![CDATA[Satya navel 🔥💥]]></summary>
+        <author>
+            <name>@alpha_leporis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiara Advani 🥵]]></title>
+        <id>https://nitter.1d4.us/GlamspotA/status/1685950491308539904#m</id>
+        <link href="https://nitter.1d4.us/GlamspotA/status/1685950491308539904#m"/>
+        <updated>2023-07-31T09:48:15.000Z</updated>
+        <summary type="html"><![CDATA[Kiara Advani 🥵]]></summary>
+        <author>
+            <name>@GlamspotA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @ActressHQ_: #HBDKiaraAdvani]]></title>
+        <id>https://nitter.1d4.us/ActressHQ_/status/1685928801229000704#m</id>
+        <link href="https://nitter.1d4.us/ActressHQ_/status/1685928801229000704#m"/>
+        <updated>2023-07-31T08:22:03.000Z</updated>
+        <summary type="html"><![CDATA[#HBDKiaraAdvani]]></summary>
+        <author>
+            <name>@ActressHQ_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @ActressHQ_: #HBDKiaraAdvani]]></title>
+        <id>https://nitter.1d4.us/ActressHQ_/status/1685928740482932736#m</id>
+        <link href="https://nitter.1d4.us/ActressHQ_/status/1685928740482932736#m"/>
+        <updated>2023-07-31T08:21:49.000Z</updated>
+        <summary type="html"><![CDATA[#HBDKiaraAdvani]]></summary>
+        <author>
+            <name>@ActressHQ_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @ActressHQ_: #HBDKiaraAdvani]]></title>
+        <id>https://nitter.1d4.us/ActressHQ_/status/1685928665786576896#m</id>
+        <link href="https://nitter.1d4.us/ActressHQ_/status/1685928665786576896#m"/>
+        <updated>2023-07-31T08:21:31.000Z</updated>
+        <summary type="html"><![CDATA[#HBDKiaraAdvani]]></summary>
+        <author>
+            <name>@ActressHQ_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday @advani_kiara 🎉😻💕
+UHQ 📸💥
+#HBDKiaraAdvani #KiaraAdvani
+
+UHQ Photos Updated In My Telegram Channel]]></title>
+        <id>https://nitter.1d4.us/ActressHQ_/status/1685928591903887362#m</id>
+        <link href="https://nitter.1d4.us/ActressHQ_/status/1685928591903887362#m"/>
+        <updated>2023-07-31T08:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Happy Birthday @advani_kiara 🎉😻💕
+#HBDKiaraAdvani #KiaraAdvani
+
+UHQ Photos Updated In My Telegram Channel]]></summary>
+        <author>
+            <name>@ActressHQ_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atha balls💥💥🔥🔥]]></title>
+        <id>https://nitter.1d4.us/alpha_leporis/status/1685896297835102208#m</id>
+        <link href="https://nitter.1d4.us/alpha_leporis/status/1685896297835102208#m"/>
+        <updated>2023-07-31T06:12:54.000Z</updated>
+        <summary type="html"><![CDATA[Atha balls💥💥🔥🔥]]></summary>
+        <author>
+            <name>@alpha_leporis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Kiarastannn: HAPPY BIRTHDAY KIARA ADVANI
+:)]]></title>
+        <id>https://nitter.1d4.us/Fareenstann/status/1685887976855781376#m</id>
+        <link href="https://nitter.1d4.us/Fareenstann/status/1685887976855781376#m"/>
+        <updated>2023-07-31T05:39:50.000Z</updated>
+        <summary type="html"><![CDATA[HAPPY BIRTHDAY KIARA ADVANI
+nitter.1d4.us/Fareenstann/status/1678601207516897280#m]]></summary>
+        <author>
+            <name>@Fareenstann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy birthday 🎂
+                                  Kiara Advani 😍]]></title>
+        <id>https://nitter.1d4.us/acviralhub/status/1685858183351570434#m</id>
+        <link href="https://nitter.1d4.us/acviralhub/status/1685858183351570434#m"/>
+        <updated>2023-07-31T03:41:27.000Z</updated>
+        <summary type="html"><![CDATA[Happy birthday 🎂
+                                  Kiara Advani 😍]]></summary>
+        <author>
+            <name>@acviralhub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simran karu💦🥵]]></title>
+        <id>https://nitter.1d4.us/Galaxyeditshd/status/1685829383100186624#m</id>
+        <link href="https://nitter.1d4.us/Galaxyeditshd/status/1685829383100186624#m"/>
+        <updated>2023-07-31T01:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Simran karu💦🥵]]></summary>
+        <author>
+            <name>@Galaxyeditshd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monday Mornings :]]></title>
+        <id>https://nitter.1d4.us/GlamspotA/status/1685824545754951680#m</id>
+        <link href="https://nitter.1d4.us/GlamspotA/status/1685824545754951680#m"/>
+        <updated>2023-07-31T01:27:47.000Z</updated>
+        <summary type="html"><![CDATA[Monday Mornings :]]></summary>
+        <author>
+            <name>@GlamspotA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sanaya #sanayapithawala]]></title>
         <id>https://nitter.1d4.us/actress_corner/status/1685740905750503424#m</id>
@@ -36,36 +686,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sam💥]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1685657546336714752#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1685657546336714752#m"/>
-        <updated>2023-07-30T14:24:11.000Z</updated>
-        <summary type="html"><![CDATA[Sam💥]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dhanya🥵]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1685617509821788160#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1685617509821788160#m"/>
-        <updated>2023-07-30T11:45:06.000Z</updated>
-        <summary type="html"><![CDATA[Dhanya🥵]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swetha🔥]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1685605943525146624#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1685605943525146624#m"/>
-        <updated>2023-07-30T10:59:08.000Z</updated>
-        <summary type="html"><![CDATA[Swetha🔥]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kudi Kamaal Hai #AliaBhatt]]></title>
         <id>https://nitter.1d4.us/Aliaastann/status/1685599333436313600#m</id>
         <link href="https://nitter.1d4.us/Aliaastann/status/1685599333436313600#m"/>
@@ -76,23 +696,16 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ria🥵]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1685579349330964480#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1685579349330964480#m"/>
-        <updated>2023-07-30T09:13:28.000Z</updated>
-        <summary type="html"><![CDATA[Ria🥵]]></summary>
+        <title type="html"><![CDATA[RT by @Janhviworlds: Sexiest 🖤🥵
+
+#JasminBhasin #Jasminians]]></title>
+        <id>https://nitter.1d4.us/JasminBxstanns/status/1685562494616539136#m</id>
+        <link href="https://nitter.1d4.us/JasminBxstanns/status/1685562494616539136#m"/>
+        <updated>2023-07-30T08:06:29.000Z</updated>
+        <summary type="html"><![CDATA[Sexiest 🖤🥵
+#JasminBhasin #Jasminians]]></summary>
         <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[R to @OnlyHeroines: 📸 @KikiVijay]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685564722081632256#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685564722081632256#m"/>
-        <updated>2023-07-30T08:15:20.000Z</updated>
-        <summary type="html"><![CDATA[📸 @KikiVijay]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
+            <name>@JasminBxstanns</name>
         </author>
     </entry>
     <entry>
@@ -113,96 +726,6 @@
         <summary type="html"><![CDATA[#actress #meena #cute #video #shorts]]></summary>
         <author>
             <name>@Actress_Club</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#JasminBhasin 😍]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685522216027586560#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685522216027586560#m"/>
-        <updated>2023-07-30T05:26:26.000Z</updated>
-        <summary type="html"><![CDATA[#JasminBhasin 😍]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#AndreaJeremiah 🤩]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685521333374124032#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685521333374124032#m"/>
-        <updated>2023-07-30T05:22:56.000Z</updated>
-        <summary type="html"><![CDATA[#AndreaJeremiah 🤩]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#BhumiPednekar 😻]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685520737531314177#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685520737531314177#m"/>
-        <updated>2023-07-30T05:20:33.000Z</updated>
-        <summary type="html"><![CDATA[#BhumiPednekar 😻]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#BhagyashreeMote 💝]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685520181425225728#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685520181425225728#m"/>
-        <updated>2023-07-30T05:18:21.000Z</updated>
-        <summary type="html"><![CDATA[#BhagyashreeMote 💝]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#sakshiagarwal 😘]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685517126294278144#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685517126294278144#m"/>
-        <updated>2023-07-30T05:06:12.000Z</updated>
-        <summary type="html"><![CDATA[#sakshiagarwal 😘]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#DivyaGanesan 🥰]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685515826542346240#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685515826542346240#m"/>
-        <updated>2023-07-30T05:01:03.000Z</updated>
-        <summary type="html"><![CDATA[#DivyaGanesan 🥰]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#vanibhojan 💖]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685515610124640256#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685515610124640256#m"/>
-        <updated>2023-07-30T05:00:11.000Z</updated>
-        <summary type="html"><![CDATA[#vanibhojan 💖]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Punnu🥵]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1685503900793937920#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1685503900793937920#m"/>
-        <updated>2023-07-30T04:13:39.000Z</updated>
-        <summary type="html"><![CDATA[Punnu🥵]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pranvi😘]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1685486404128976896#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1685486404128976896#m"/>
-        <updated>2023-07-30T03:04:08.000Z</updated>
-        <summary type="html"><![CDATA[Pranvi😘]]></summary>
-        <author>
-            <name>@Rampage0690</name>
         </author>
     </entry>
     <entry>
@@ -239,26 +762,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#BrieLarson 😽]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685396390351085569#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685396390351085569#m"/>
-        <updated>2023-07-29T21:06:27.000Z</updated>
-        <summary type="html"><![CDATA[#BrieLarson 😽]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaju🥵]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1685350738535563265#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1685350738535563265#m"/>
-        <updated>2023-07-29T18:05:03.000Z</updated>
-        <summary type="html"><![CDATA[Kaju🥵]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pooja Hegde 😘😍]]></title>
         <id>https://nitter.1d4.us/acviralhub/status/1685337070653603840#m</id>
         <link href="https://nitter.1d4.us/acviralhub/status/1685337070653603840#m"/>
@@ -266,56 +769,6 @@
         <summary type="html"><![CDATA[Pooja Hegde 😘😍]]></summary>
         <author>
             <name>@acviralhub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#kaniha 🤩]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685324111554449408#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685324111554449408#m"/>
-        <updated>2023-07-29T16:19:14.000Z</updated>
-        <summary type="html"><![CDATA[#kaniha 🤩]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#sherin ☺️]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685321850627514368#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685321850627514368#m"/>
-        <updated>2023-07-29T16:10:15.000Z</updated>
-        <summary type="html"><![CDATA[#sherin ☺️]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#RoshniWalia 😻]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685321322187100160#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685321322187100160#m"/>
-        <updated>2023-07-29T16:08:09.000Z</updated>
-        <summary type="html"><![CDATA[#RoshniWalia 😻]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#AnahitaBhooshan 😘]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685320685525291009#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685320685525291009#m"/>
-        <updated>2023-07-29T16:05:37.000Z</updated>
-        <summary type="html"><![CDATA[#AnahitaBhooshan 😘]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#ameyamathew 😍]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685320283245473792#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685320283245473792#m"/>
-        <updated>2023-07-29T16:04:01.000Z</updated>
-        <summary type="html"><![CDATA[#ameyamathew 😍]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
         </author>
     </entry>
     <entry>
@@ -343,56 +796,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wild🔥]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1685288506862735360#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1685288506862735360#m"/>
-        <updated>2023-07-29T13:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Wild🔥]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruhani💥]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1685279559447670784#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1685279559447670784#m"/>
-        <updated>2023-07-29T13:22:12.000Z</updated>
-        <summary type="html"><![CDATA[Ruhani💥]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#SandeepaDhar 🤩]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685269819917221888#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685269819917221888#m"/>
-        <updated>2023-07-29T12:43:30.000Z</updated>
-        <summary type="html"><![CDATA[#SandeepaDhar 🤩]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#DivyaGanesh 😍]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685268942473060355#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685268942473060355#m"/>
-        <updated>2023-07-29T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[#DivyaGanesh 😍]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#athulya #AthulyaRavi 🤩]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685268618387632128#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685268618387632128#m"/>
-        <updated>2023-07-29T12:38:44.000Z</updated>
-        <summary type="html"><![CDATA[#athulya #AthulyaRavi 🤩]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[❤️🥵🔥
 @tamannaahspeaks]]></title>
         <id>https://nitter.1d4.us/ActressHQ_/status/1685267355222573056#m</id>
@@ -402,26 +805,6 @@
 @tamannaahspeaks]]></summary>
         <author>
             <name>@ActressHQ_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Tamannaah #TamannaahBhatia 🥰]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685262512491806721#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685262512491806721#m"/>
-        <updated>2023-07-29T12:14:28.000Z</updated>
-        <summary type="html"><![CDATA[#Tamannaah #TamannaahBhatia 🥰]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Indhuja 😍]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685262319725772800#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685262319725772800#m"/>
-        <updated>2023-07-29T12:13:42.000Z</updated>
-        <summary type="html"><![CDATA[#Indhuja 😍]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
         </author>
     </entry>
     <entry>
@@ -445,16 +828,6 @@
 #JasminBhasin]]></summary>
         <author>
             <name>@JasminBxstanns</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#MimiChakraborty 😍]]></title>
-        <id>https://nitter.1d4.us/OnlyHeroines/status/1685233060902731776#m</id>
-        <link href="https://nitter.1d4.us/OnlyHeroines/status/1685233060902731776#m"/>
-        <updated>2023-07-29T10:17:26.000Z</updated>
-        <summary type="html"><![CDATA[#MimiChakraborty 😍]]></summary>
-        <author>
-            <name>@OnlyHeroines</name>
         </author>
     </entry>
     <entry>
@@ -500,16 +873,6 @@ Priya Prakash Varrier 🌸🍑]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tanna💥]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1685156482021834752#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1685156482021834752#m"/>
-        <updated>2023-07-29T05:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Tanna💥]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PPV🍩🔥]]></title>
         <id>https://nitter.1d4.us/Galaxyeditshd/status/1685155425224953856#m</id>
         <link href="https://nitter.1d4.us/Galaxyeditshd/status/1685155425224953856#m"/>
@@ -534,43 +897,12 @@ Love you 2000 Times ❤️🖤❤️
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Komalee💥]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1685111035710320640#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1685111035710320640#m"/>
-        <updated>2023-07-29T02:12:33.000Z</updated>
-        <summary type="html"><![CDATA[Komalee💥]]></summary>
+        <title type="html"><![CDATA[Video]]></title>
+        <id>https://nitter.1d4.us/JhanviKapoorFa/status/1685008705404764160#m</id>
+        <link href="https://nitter.1d4.us/JhanviKapoorFa/status/1685008705404764160#m"/>
+        <updated>2023-07-28T19:25:55.000Z</updated>
         <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supri🥵🖤]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1685110118994874368#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1685110118994874368#m"/>
-        <updated>2023-07-29T02:08:54.000Z</updated>
-        <summary type="html"><![CDATA[Supri🥵🖤]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Priya🥵]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1684997215956475904#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1684997215956475904#m"/>
-        <updated>2023-07-28T18:40:16.000Z</updated>
-        <summary type="html"><![CDATA[Priya🥵]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KetikA🤤]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1684996726179160064#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1684996726179160064#m"/>
-        <updated>2023-07-28T18:38:19.000Z</updated>
-        <summary type="html"><![CDATA[KetikA🤤]]></summary>
-        <author>
-            <name>@Rampage0690</name>
+            <name>@JhanviKapoorFa</name>
         </author>
     </entry>
     <entry>
@@ -614,16 +946,6 @@ Love you 2000 Times ❤️🖤❤️
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Priya🔥]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1684950780606898176#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1684950780606898176#m"/>
-        <updated>2023-07-28T15:35:45.000Z</updated>
-        <summary type="html"><![CDATA[Priya🔥]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT by @Aliaastann: How is the #Bawaal movie?? #JanhviKapoor #VarunDhawan]]></title>
         <id>https://nitter.1d4.us/GlamssWorld/status/1684941820814561280#m</id>
         <link href="https://nitter.1d4.us/GlamssWorld/status/1684941820814561280#m"/>
@@ -655,16 +977,6 @@ Love you 2000 Times ❤️🖤❤️
     </entry>
     <entry>
         <title type="html"><![CDATA[RT by @Deepikastannn: How is the #Bawaal movie?? #JanhviKapoor #VarunDhawan]]></title>
-        <id>https://nitter.1d4.us/GlamssWorld/status/1684941820814561280#m</id>
-        <link href="https://nitter.1d4.us/GlamssWorld/status/1684941820814561280#m"/>
-        <updated>2023-07-28T15:00:09.000Z</updated>
-        <summary type="html"><![CDATA[How is the #Bawaal movie?? #JanhviKapoor #VarunDhawan]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Ananyastann: How is the #Bawaal movie?? #JanhviKapoor #VarunDhawan]]></title>
         <id>https://nitter.1d4.us/GlamssWorld/status/1684941820814561280#m</id>
         <link href="https://nitter.1d4.us/GlamssWorld/status/1684941820814561280#m"/>
         <updated>2023-07-28T15:00:09.000Z</updated>
@@ -884,16 +1196,6 @@ Love you 2000 Times ❤️🖤❤️
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jaan🥵]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1684835198142427136#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1684835198142427136#m"/>
-        <updated>2023-07-28T07:56:28.000Z</updated>
-        <summary type="html"><![CDATA[Jaan🥵]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT by @Norastann: Bold And BadaSS 🔥
 #NikkiTamboli]]></title>
         <id>https://nitter.1d4.us/NikkiStann/status/1684811294707421184#m</id>
@@ -918,23 +1220,13 @@ Tamannaah Bhatia 👅😍]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deepika 🥵]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1684788655838359552#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1684788655838359552#m"/>
-        <updated>2023-07-28T04:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Deepika 🥵]]></summary>
+        <title type="html"><![CDATA[Good morning]]></title>
+        <id>https://nitter.1d4.us/JhanviKapoorFa/status/1684803521273602048#m</id>
+        <link href="https://nitter.1d4.us/JhanviKapoorFa/status/1684803521273602048#m"/>
+        <updated>2023-07-28T05:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Good morning]]></summary>
         <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akshara🔥]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1684786221707665408#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1684786221707665408#m"/>
-        <updated>2023-07-28T04:41:51.000Z</updated>
-        <summary type="html"><![CDATA[Akshara🔥]]></summary>
-        <author>
-            <name>@Rampage0690</name>
+            <name>@JhanviKapoorFa</name>
         </author>
     </entry>
     <entry>
@@ -968,6 +1260,25 @@ Tamannaah Bhatia 👅😍]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Video]]></title>
+        <id>https://nitter.1d4.us/JhanviKapoorFa/status/1684658264116449282#m</id>
+        <link href="https://nitter.1d4.us/JhanviKapoorFa/status/1684658264116449282#m"/>
+        <updated>2023-07-27T20:13:24.000Z</updated>
+        <author>
+            <name>@JhanviKapoorFa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Style]]></title>
+        <id>https://nitter.1d4.us/JhanviKapoorFa/status/1684657309673234432#m</id>
+        <link href="https://nitter.1d4.us/JhanviKapoorFa/status/1684657309673234432#m"/>
+        <updated>2023-07-27T20:09:36.000Z</updated>
+        <summary type="html"><![CDATA[Style]]></summary>
+        <author>
+            <name>@JhanviKapoorFa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pranavi 💥🔥]]></title>
         <id>https://nitter.1d4.us/alpha_leporis/status/1684612640646324224#m</id>
         <link href="https://nitter.1d4.us/alpha_leporis/status/1684612640646324224#m"/>
@@ -987,26 +1298,6 @@ Tamannaah 🥵]]></title>
 Tamannaah 🥵]]></summary>
         <author>
             <name>@GlamspotA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poojitha🥵]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1684607081721323521#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1684607081721323521#m"/>
-        <updated>2023-07-27T16:50:01.000Z</updated>
-        <summary type="html"><![CDATA[Poojitha🥵]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shreya🔥]]></title>
-        <id>https://nitter.1d4.us/Rampage0690/status/1684594049045725184#m</id>
-        <link href="https://nitter.1d4.us/Rampage0690/status/1684594049045725184#m"/>
-        <updated>2023-07-27T15:58:14.000Z</updated>
-        <summary type="html"><![CDATA[Shreya🔥]]></summary>
-        <author>
-            <name>@Rampage0690</name>
         </author>
     </entry>
     <entry>
@@ -1416,6 +1707,16 @@ Tamannaah Bhatia 🥵🔥😍]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Good morning]]></title>
+        <id>https://nitter.1d4.us/JhanviKapoorFa/status/1684404234035286016#m</id>
+        <link href="https://nitter.1d4.us/JhanviKapoorFa/status/1684404234035286016#m"/>
+        <updated>2023-07-27T03:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Good morning]]></summary>
+        <author>
+            <name>@JhanviKapoorFa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Happy Birthday 🎂
                                   Kriti Sanon 💃]]></title>
         <id>https://nitter.1d4.us/acviralhub/status/1684390916445044736#m</id>
@@ -1449,6 +1750,16 @@ Tamannaah Bhatia 🥵🔥😍]]></summary>
 #SaraAliKhan]]></summary>
         <author>
             <name>@sarastannn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good night]]></title>
+        <id>https://nitter.1d4.us/JhanviKapoorFa/status/1684303299371991041#m</id>
+        <link href="https://nitter.1d4.us/JhanviKapoorFa/status/1684303299371991041#m"/>
+        <updated>2023-07-26T20:42:54.000Z</updated>
+        <summary type="html"><![CDATA[Good night]]></summary>
+        <author>
+            <name>@JhanviKapoorFa</name>
         </author>
     </entry>
     <entry>
@@ -1703,18 +2014,6 @@ Retouch 📸
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Samantha Ruthless Prabhu 🥵🥵🔥
-Arrest me and humiliate madam 🛐]]></title>
-        <id>https://nitter.1d4.us/GlamspotA/status/1683722604048252928#m</id>
-        <link href="https://nitter.1d4.us/GlamspotA/status/1683722604048252928#m"/>
-        <updated>2023-07-25T06:15:25.000Z</updated>
-        <summary type="html"><![CDATA[Samantha Ruthless Prabhu 🥵🥵🔥
-Arrest me and humiliate madam 🛐]]></summary>
-        <author>
-            <name>@GlamspotA</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Aryana]]></title>
         <id>https://nitter.1d4.us/alpha_leporis/status/1683722421570871297#m</id>
         <link href="https://nitter.1d4.us/alpha_leporis/status/1683722421570871297#m"/>
@@ -1755,16 +2054,6 @@ Arrest me and humiliate madam 🛐]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Atha 🔥🔥🔥]]></title>
-        <id>https://nitter.1d4.us/alpha_leporis/status/1683664473909870593#m</id>
-        <link href="https://nitter.1d4.us/alpha_leporis/status/1683664473909870593#m"/>
-        <updated>2023-07-25T02:24:26.000Z</updated>
-        <summary type="html"><![CDATA[Atha 🔥🔥🔥]]></summary>
-        <author>
-            <name>@alpha_leporis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rakul Preet Singh 🥶
                                      Full Screen 👙]]></title>
         <id>https://nitter.1d4.us/acviralhub/status/1683655090031452160#m</id>
@@ -1784,16 +2073,6 @@ Arrest me and humiliate madam 🛐]]></summary>
         <summary type="html"><![CDATA[Esha #eshakansara]]></summary>
         <author>
             <name>@actress_corner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[R to @GlamspotA: Urge to make her sit on my face]]></title>
-        <id>https://nitter.1d4.us/GlamspotA/status/1683527032125177863#m</id>
-        <link href="https://nitter.1d4.us/GlamspotA/status/1683527032125177863#m"/>
-        <updated>2023-07-24T17:18:17.000Z</updated>
-        <summary type="html"><![CDATA[Urge to make her sit on my face]]></summary>
-        <author>
-            <name>@GlamspotA</name>
         </author>
     </entry>
     <entry>
@@ -1913,47 +2192,6 @@ Arrest me and humiliate madam 🛐]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anupama Parameswaran 🥵🔥 
-That tattoo nd Expressions 🤤]]></title>
-        <id>https://nitter.1d4.us/GlamspotA/status/1683460856112349184#m</id>
-        <link href="https://nitter.1d4.us/GlamspotA/status/1683460856112349184#m"/>
-        <updated>2023-07-24T12:55:19.000Z</updated>
-        <summary type="html"><![CDATA[Anupama Parameswaran 🥵🔥 
-That tattoo nd Expressions 🤤]]></summary>
-        <author>
-            <name>@GlamspotA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram link Official Page For ActressHQ_ in Twitter ✅
-https://t.me/ActressBilzz
-
-UHQ 💙🔥📸]]></title>
-        <id>https://nitter.1d4.us/ActressHQ_/status/1683454921721651202#m</id>
-        <link href="https://nitter.1d4.us/ActressHQ_/status/1683454921721651202#m"/>
-        <updated>2023-07-24T12:31:45.000Z</updated>
-        <summary type="html"><![CDATA[Telegram link Official Page For ActressHQ_ in Twitter ✅
-t.me/ActressBilzz
-
-UHQ 💙🔥📸]]></summary>
-        <author>
-            <name>@ActressHQ_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @ActressHQ_: Queen @MsKajalAggarwal 👸✨
-
-@MsKajalAggarwal #Kajal #KajalAggarwal #Kajalism]]></title>
-        <id>https://nitter.1d4.us/KajalEdits/status/1683450710229393408#m</id>
-        <link href="https://nitter.1d4.us/KajalEdits/status/1683450710229393408#m"/>
-        <updated>2023-07-24T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Queen @MsKajalAggarwal 👸✨
-@MsKajalAggarwal #Kajal #KajalAggarwal #Kajalism]]></summary>
-        <author>
-            <name>@KajalEdits</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[𝘼𝙣𝙪𝙥𝙖𝙢𝙖 😍]]></title>
         <id>https://nitter.1d4.us/Galaxyeditshd/status/1683448244561678340#m</id>
         <link href="https://nitter.1d4.us/Galaxyeditshd/status/1683448244561678340#m"/>
@@ -1961,29 +2199,6 @@ UHQ 💙🔥📸]]></summary>
         <summary type="html"><![CDATA[𝘼𝙣𝙪𝙥𝙖𝙢𝙖 😍]]></summary>
         <author>
             <name>@Galaxyeditshd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anupama]]></title>
-        <id>https://nitter.1d4.us/alpha_leporis/status/1683445267817992192#m</id>
-        <link href="https://nitter.1d4.us/alpha_leporis/status/1683445267817992192#m"/>
-        <updated>2023-07-24T11:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Anupama]]></summary>
-        <author>
-            <name>@alpha_leporis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @ActressHQ_: Princess @MsKajalAggarwal 🥵🖤🔥🔥
-
-@MsKajalAggarwal #Kajal #KajalAggarwal #Kajalism]]></title>
-        <id>https://nitter.1d4.us/KajalEdits/status/1683362831520129024#m</id>
-        <link href="https://nitter.1d4.us/KajalEdits/status/1683362831520129024#m"/>
-        <updated>2023-07-24T06:25:49.000Z</updated>
-        <summary type="html"><![CDATA[Princess @MsKajalAggarwal 🥵🖤🔥🔥
-@MsKajalAggarwal #Kajal #KajalAggarwal #Kajalism]]></summary>
-        <author>
-            <name>@KajalEdits</name>
         </author>
     </entry>
     <entry>
@@ -2004,16 +2219,6 @@ UHQ 💙🔥📸]]></summary>
         <summary type="html"><![CDATA[Good vibes only ✨]]></summary>
         <author>
             <name>@KeerthyOfficial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Ananyastann: Eye Play #AnanyaPanday]]></title>
-        <id>https://nitter.1d4.us/Ananyastann/status/1683133876816998400#m</id>
-        <link href="https://nitter.1d4.us/Ananyastann/status/1683133876816998400#m"/>
-        <updated>2023-07-23T15:16:02.000Z</updated>
-        <summary type="html"><![CDATA[Eye Play #AnanyaPanday]]></summary>
-        <author>
-            <name>@Ananyastann</name>
         </author>
     </entry>
     <entry>
@@ -2047,23 +2252,12 @@ UHQ 💙🔥📸]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meenakshi phatt 🍑]]></title>
-        <id>https://nitter.1d4.us/alpha_leporis/status/1683084604536918017#m</id>
-        <link href="https://nitter.1d4.us/alpha_leporis/status/1683084604536918017#m"/>
-        <updated>2023-07-23T12:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Meenakshi phatt 🍑]]></summary>
+        <title type="html"><![CDATA[Image]]></title>
+        <id>https://nitter.1d4.us/JhanviKapoorFa/status/1683042420722728960#m</id>
+        <link href="https://nitter.1d4.us/JhanviKapoorFa/status/1683042420722728960#m"/>
+        <updated>2023-07-23T09:12:37.000Z</updated>
         <author>
-            <name>@alpha_leporis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lachakkaawww]]></title>
-        <id>https://nitter.1d4.us/alpha_leporis/status/1683084527416258561#m</id>
-        <link href="https://nitter.1d4.us/alpha_leporis/status/1683084527416258561#m"/>
-        <updated>2023-07-23T11:59:56.000Z</updated>
-        <summary type="html"><![CDATA[Lachakkaawww]]></summary>
-        <author>
-            <name>@alpha_leporis</name>
+            <name>@JhanviKapoorFa</name>
         </author>
     </entry>
     <entry>
@@ -2389,23 +2583,22 @@ All the best for #Kanguva 💥🔥
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙉𝙖𝙗𝙝𝙖 𝙣𝙖𝙩𝙚𝙨𝙝 😍]]></title>
-        <id>https://nitter.1d4.us/Galaxyeditshd/status/1682798586059444225#m</id>
-        <link href="https://nitter.1d4.us/Galaxyeditshd/status/1682798586059444225#m"/>
-        <updated>2023-07-22T17:03:42.000Z</updated>
-        <summary type="html"><![CDATA[𝙉𝙖𝙗𝙝𝙖 𝙣𝙖𝙩𝙚𝙨𝙝 😍]]></summary>
+        <title type="html"><![CDATA[RT by @JhanviKapoorFa:]]></title>
+        <id>https://nitter.1d4.us/Jerry__khan/status/1682856598916530176#m</id>
+        <link href="https://nitter.1d4.us/Jerry__khan/status/1682856598916530176#m"/>
+        <updated>2023-07-22T20:54:13.000Z</updated>
         <author>
-            <name>@Galaxyeditshd</name>
+            <name>@Jerry__khan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tridha Choudhury 🔥]]></title>
-        <id>https://nitter.1d4.us/acviralhub/status/1682788617973035009#m</id>
-        <link href="https://nitter.1d4.us/acviralhub/status/1682788617973035009#m"/>
-        <updated>2023-07-22T16:24:05.000Z</updated>
-        <summary type="html"><![CDATA[Tridha Choudhury 🔥]]></summary>
+        <title type="html"><![CDATA[Good night]]></title>
+        <id>https://nitter.1d4.us/JhanviKapoorFa/status/1682855830515793920#m</id>
+        <link href="https://nitter.1d4.us/JhanviKapoorFa/status/1682855830515793920#m"/>
+        <updated>2023-07-22T20:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Good night]]></summary>
         <author>
-            <name>@acviralhub</name>
+            <name>@JhanviKapoorFa</name>
         </author>
     </entry>
     <entry>
@@ -2419,26 +2612,6 @@ All the best for #Kanguva 💥🔥
 #Kajal #Beauty #Trending #KajalAggarwal]]></summary>
         <author>
             <name>@KajalAgarwalKfc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Priya Prakash Varrier 🥵]]></title>
-        <id>https://nitter.1d4.us/acviralhub/status/1682776823497904128#m</id>
-        <link href="https://nitter.1d4.us/acviralhub/status/1682776823497904128#m"/>
-        <updated>2023-07-22T15:37:13.000Z</updated>
-        <summary type="html"><![CDATA[Priya Prakash Varrier 🥵]]></summary>
-        <author>
-            <name>@acviralhub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ketika bouncing 🏀🏀]]></title>
-        <id>https://nitter.1d4.us/Galaxyeditshd/status/1682752015238320128#m</id>
-        <link href="https://nitter.1d4.us/Galaxyeditshd/status/1682752015238320128#m"/>
-        <updated>2023-07-22T13:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Ketika bouncing 🏀🏀]]></summary>
-        <author>
-            <name>@Galaxyeditshd</name>
         </author>
     </entry>
     <entry>
@@ -2459,16 +2632,6 @@ The film elevated the stardom of #AjayDevgn to a whole new level, a character lo
 #Singham]]></summary>
         <author>
             <name>@ItsCineDash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mrunal Thakur 😍]]></title>
-        <id>https://nitter.1d4.us/acviralhub/status/1682722710387032064#m</id>
-        <link href="https://nitter.1d4.us/acviralhub/status/1682722710387032064#m"/>
-        <updated>2023-07-22T12:02:12.000Z</updated>
-        <summary type="html"><![CDATA[Mrunal Thakur 😍]]></summary>
-        <author>
-            <name>@acviralhub</name>
         </author>
     </entry>
     <entry>
@@ -2498,16 +2661,6 @@ Natasimham #NandamuriBalakrishna @AnilRavipudi @MsKajalAggarwal @sreeleela14]]><
 #NandamuriBalakrishna @AnilRavipudi @MsKajalAggarwal @sreeleela14]]></summary>
         <author>
             <name>@AngelKajalFC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gouri G Kishan 🥵🔥]]></title>
-        <id>https://nitter.1d4.us/acviralhub/status/1682642471342452737#m</id>
-        <link href="https://nitter.1d4.us/acviralhub/status/1682642471342452737#m"/>
-        <updated>2023-07-22T06:43:21.000Z</updated>
-        <summary type="html"><![CDATA[Gouri G Kishan 🥵🔥]]></summary>
-        <author>
-            <name>@acviralhub</name>
         </author>
     </entry>
     <entry>
@@ -2607,16 +2760,6 @@ She's So Gorgeous!!🔥💫
 @MsKajalAggarwal || #KajalAggarwal]]></summary>
         <author>
             <name>@Pujakajalfan1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akanksha puri😍]]></title>
-        <id>https://nitter.1d4.us/Galaxyeditshd/status/1682357756739854336#m</id>
-        <link href="https://nitter.1d4.us/Galaxyeditshd/status/1682357756739854336#m"/>
-        <updated>2023-07-21T11:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Akanksha puri😍]]></summary>
-        <author>
-            <name>@Galaxyeditshd</name>
         </author>
     </entry>
     <entry>
@@ -2764,26 +2907,6 @@ She's So Gorgeous!!🔥💫
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT by @GlamssWorld: Happy Evening With #SobhitaDhulipala]]></title>
-        <id>https://nitter.1d4.us/GlamssWorld/status/1682017265166999555#m</id>
-        <link href="https://nitter.1d4.us/GlamssWorld/status/1682017265166999555#m"/>
-        <updated>2023-07-20T13:19:01.000Z</updated>
-        <summary type="html"><![CDATA[Happy Evening With #SobhitaDhulipala]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Deepikastannn: ❤️❤️ Love #DeepikaPadukone]]></title>
-        <id>https://nitter.1d4.us/Deepikastannn/status/1681879619153305600#m</id>
-        <link href="https://nitter.1d4.us/Deepikastannn/status/1681879619153305600#m"/>
-        <updated>2023-07-20T04:12:03.000Z</updated>
-        <summary type="html"><![CDATA[❤️❤️ Love #DeepikaPadukone]]></summary>
-        <author>
-            <name>@Deepikastannn</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT by @SaraxDiaries: My Religious Girl #SaraAliKhan]]></title>
         <id>https://nitter.1d4.us/SaraxDiaries/status/1681864820331794434#m</id>
         <link href="https://nitter.1d4.us/SaraxDiaries/status/1681864820331794434#m"/>
@@ -2844,23 +2967,13 @@ She's So Gorgeous!!🔥💫
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT by @GlamssWorld: Guys We are looking for someone who can manage the fanpage of #JanhviKapoor  on non monetary basis, interested one please DM]]></title>
-        <id>https://nitter.1d4.us/GlamssWorld/status/1681672164120883203#m</id>
-        <link href="https://nitter.1d4.us/GlamssWorld/status/1681672164120883203#m"/>
-        <updated>2023-07-19T14:27:42.000Z</updated>
-        <summary type="html"><![CDATA[Guys We are looking for someone who can manage the fanpage of #JanhviKapoor  on non monetary basis, interested one please DM]]></summary>
+        <title type="html"><![CDATA[𝙅𝙖𝙣𝙝𝙫𝙞 𝙆𝙖𝙥𝙤𝙤𝙧 🍑🙌🏻]]></title>
+        <id>https://nitter.1d4.us/DevasenaGifs/status/1681578178156847106#m</id>
+        <link href="https://nitter.1d4.us/DevasenaGifs/status/1681578178156847106#m"/>
+        <updated>2023-07-19T08:14:14.000Z</updated>
+        <summary type="html"><![CDATA[𝙅𝙖𝙣𝙝𝙫𝙞 𝙆𝙖𝙥𝙤𝙤𝙧 🍑🙌🏻]]></summary>
         <author>
-            <name>@GlamssWorld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gorgeous Se Bhi Gorgeous #MalaikaArora]]></title>
-        <id>https://nitter.1d4.us/GlamssWorld/status/1681345156652617730#m</id>
-        <link href="https://nitter.1d4.us/GlamssWorld/status/1681345156652617730#m"/>
-        <updated>2023-07-18T16:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Gorgeous Se Bhi Gorgeous #MalaikaArora]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
+            <name>@DevasenaGifs</name>
         </author>
     </entry>
     <entry>
@@ -2904,6 +3017,16 @@ She's So Gorgeous!!🔥💫
         <summary type="html"><![CDATA[Aisha #aishasharma]]></summary>
         <author>
             <name>@actress_corner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[𝙍𝙖𝙨𝙝𝙢𝙞𝙠𝙖 𝙈𝙖𝙣𝙙𝙖𝙣𝙣𝙖 🍑🤲🏻]]></title>
+        <id>https://nitter.1d4.us/DevasenaGifs/status/1680858714943651841#m</id>
+        <link href="https://nitter.1d4.us/DevasenaGifs/status/1680858714943651841#m"/>
+        <updated>2023-07-17T08:35:21.000Z</updated>
+        <summary type="html"><![CDATA[𝙍𝙖𝙨𝙝𝙢𝙞𝙠𝙖 𝙈𝙖𝙣𝙙𝙖𝙣𝙣𝙖 🍑🤲🏻]]></summary>
+        <author>
+            <name>@DevasenaGifs</name>
         </author>
     </entry>
     <entry>
@@ -2952,32 +3075,6 @@ She's So Gorgeous!!🔥💫
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fire! Literally 
-
-#NoraFatehi]]></title>
-        <id>https://nitter.1d4.us/NoraFatehiStann/status/1680395204354875392#m</id>
-        <link href="https://nitter.1d4.us/NoraFatehiStann/status/1680395204354875392#m"/>
-        <updated>2023-07-16T01:53:31.000Z</updated>
-        <summary type="html"><![CDATA[Fire! Literally 
-#NoraFatehi]]></summary>
-        <author>
-            <name>@NoraFatehiStann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now That’s Beauty! 
-
-#TaraSutaria]]></title>
-        <id>https://nitter.1d4.us/Tarastann/status/1680395066873880577#m</id>
-        <link href="https://nitter.1d4.us/Tarastann/status/1680395066873880577#m"/>
-        <updated>2023-07-16T01:52:58.000Z</updated>
-        <summary type="html"><![CDATA[Now That’s Beauty! 
-#TaraSutaria]]></summary>
-        <author>
-            <name>@Tarastann</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Disha Patani #DishaPatani]]></title>
         <id>https://nitter.1d4.us/actress_corner/status/1680258170671726595#m</id>
         <link href="https://nitter.1d4.us/actress_corner/status/1680258170671726595#m"/>
@@ -3008,13 +3105,13 @@ She's So Gorgeous!!🔥💫
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ishq wala Love with her..... #JacquelineFernandez]]></title>
-        <id>https://nitter.1d4.us/Jacquelinestann/status/1680040472671313920#m</id>
-        <link href="https://nitter.1d4.us/Jacquelinestann/status/1680040472671313920#m"/>
-        <updated>2023-07-15T02:23:56.000Z</updated>
-        <summary type="html"><![CDATA[Ishq wala Love with her..... #JacquelineFernandez]]></summary>
+        <title type="html"><![CDATA[My Gorgeous Girl 😍 #SaraAliKhan]]></title>
+        <id>https://nitter.1d4.us/SaraxDiaries/status/1680049423496388608#m</id>
+        <link href="https://nitter.1d4.us/SaraxDiaries/status/1680049423496388608#m"/>
+        <updated>2023-07-15T02:59:31.000Z</updated>
+        <summary type="html"><![CDATA[My Gorgeous Girl 😍 #SaraAliKhan]]></summary>
         <author>
-            <name>@Jacquelinestann</name>
+            <name>@SaraxDiaries</name>
         </author>
     </entry>
     <entry>
@@ -3048,56 +3145,6 @@ She's So Gorgeous!!🔥💫
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT by @rashmikastann: Queen 👑 #RashmikaMandanna #Rashmika]]></title>
-        <id>https://nitter.1d4.us/rashmikastann/status/1680039287541338112#m</id>
-        <link href="https://nitter.1d4.us/rashmikastann/status/1680039287541338112#m"/>
-        <updated>2023-07-15T02:19:14.000Z</updated>
-        <summary type="html"><![CDATA[Queen 👑 #RashmikaMandanna #Rashmika]]></summary>
-        <author>
-            <name>@rashmikastann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desi Girl #JanhviKapoor]]></title>
-        <id>https://nitter.1d4.us/Janhviworlds/status/1680038944787017728#m</id>
-        <link href="https://nitter.1d4.us/Janhviworlds/status/1680038944787017728#m"/>
-        <updated>2023-07-15T02:17:52.000Z</updated>
-        <summary type="html"><![CDATA[Desi Girl #JanhviKapoor]]></summary>
-        <author>
-            <name>@Janhviworlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[She is Gorgeous and she knows it #AliaBhatt]]></title>
-        <id>https://nitter.1d4.us/Aliaastann/status/1680038787567738881#m</id>
-        <link href="https://nitter.1d4.us/Aliaastann/status/1680038787567738881#m"/>
-        <updated>2023-07-15T02:17:15.000Z</updated>
-        <summary type="html"><![CDATA[She is Gorgeous and she knows it #AliaBhatt]]></summary>
-        <author>
-            <name>@Aliaastann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For Grazia #KiaraAdvani]]></title>
-        <id>https://nitter.1d4.us/Kiarastann/status/1680038542066712578#m</id>
-        <link href="https://nitter.1d4.us/Kiarastann/status/1680038542066712578#m"/>
-        <updated>2023-07-15T02:16:16.000Z</updated>
-        <summary type="html"><![CDATA[For Grazia #KiaraAdvani]]></summary>
-        <author>
-            <name>@Kiarastann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Ananyastann: Pretty Doll #AnanyaPanday]]></title>
-        <id>https://nitter.1d4.us/Ananyastann/status/1680038345710403585#m</id>
-        <link href="https://nitter.1d4.us/Ananyastann/status/1680038345710403585#m"/>
-        <updated>2023-07-15T02:15:29.000Z</updated>
-        <summary type="html"><![CDATA[Pretty Doll #AnanyaPanday]]></summary>
-        <author>
-            <name>@Ananyastann</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🔥 #HinaKhan]]></title>
         <id>https://nitter.1d4.us/Hinastannn/status/1680037609790373889#m</id>
         <link href="https://nitter.1d4.us/Hinastannn/status/1680037609790373889#m"/>
@@ -3118,26 +3165,6 @@ She's So Gorgeous!!🔥💫
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ladki Pataka Hai #DishaPatani]]></title>
-        <id>https://nitter.1d4.us/Dishastann/status/1680037170336399360#m</id>
-        <link href="https://nitter.1d4.us/Dishastann/status/1680037170336399360#m"/>
-        <updated>2023-07-15T02:10:49.000Z</updated>
-        <summary type="html"><![CDATA[Ladki Pataka Hai #DishaPatani]]></summary>
-        <author>
-            <name>@Dishastann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All heart eyes for #SurbhiJyoti]]></title>
-        <id>https://nitter.1d4.us/GlamssWorld/status/1679898865380753408#m</id>
-        <link href="https://nitter.1d4.us/GlamssWorld/status/1679898865380753408#m"/>
-        <updated>2023-07-14T17:01:15.000Z</updated>
-        <summary type="html"><![CDATA[All heart eyes for #SurbhiJyoti]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Esha Kansara #eshakansara]]></title>
         <id>https://nitter.1d4.us/actress_corner/status/1679884889976614912#m</id>
         <link href="https://nitter.1d4.us/actress_corner/status/1679884889976614912#m"/>
@@ -3145,16 +3172,6 @@ She's So Gorgeous!!🔥💫
         <summary type="html"><![CDATA[Esha Kansara #eshakansara]]></summary>
         <author>
             <name>@actress_corner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If it's 🔥 it must be #ShanayaKapoor]]></title>
-        <id>https://nitter.1d4.us/GlamssWorld/status/1679694695474278401#m</id>
-        <link href="https://nitter.1d4.us/GlamssWorld/status/1679694695474278401#m"/>
-        <updated>2023-07-14T03:29:57.000Z</updated>
-        <summary type="html"><![CDATA[If it's 🔥 it must be #ShanayaKapoor]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
         </author>
     </entry>
     <entry>
@@ -3178,6 +3195,26 @@ She's So Gorgeous!!🔥💫
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[𝙋𝙤𝙤𝙟𝙖 𝙃𝙚𝙜𝙙𝙚 🍑🤤]]></title>
+        <id>https://nitter.1d4.us/DevasenaGifs/status/1679439923517042694#m</id>
+        <link href="https://nitter.1d4.us/DevasenaGifs/status/1679439923517042694#m"/>
+        <updated>2023-07-13T10:37:34.000Z</updated>
+        <summary type="html"><![CDATA[𝙋𝙤𝙤𝙟𝙖 𝙃𝙚𝙜𝙙𝙚 🍑🤤]]></summary>
+        <author>
+            <name>@DevasenaGifs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[𝙄𝙨𝙬𝙖𝙧𝙮𝙖 𝙈𝙚𝙣𝙤𝙣 🍑😳]]></title>
+        <id>https://nitter.1d4.us/DevasenaGifs/status/1678294371563700226#m</id>
+        <link href="https://nitter.1d4.us/DevasenaGifs/status/1678294371563700226#m"/>
+        <updated>2023-07-10T06:45:34.000Z</updated>
+        <summary type="html"><![CDATA[𝙄𝙨𝙬𝙖𝙧𝙮𝙖 𝙈𝙚𝙣𝙤𝙣 🍑😳]]></summary>
+        <author>
+            <name>@DevasenaGifs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Slay For All! 
 
 #KiaraAdvani #SidKiara]]></title>
@@ -3191,32 +3228,6 @@ She's So Gorgeous!!🔥💫
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Impressed! 
-
-#NoraFatehi]]></title>
-        <id>https://nitter.1d4.us/NoraFatehiStann/status/1678216246314123265#m</id>
-        <link href="https://nitter.1d4.us/NoraFatehiStann/status/1678216246314123265#m"/>
-        <updated>2023-07-10T01:35:07.000Z</updated>
-        <summary type="html"><![CDATA[Impressed! 
-#NoraFatehi]]></summary>
-        <author>
-            <name>@NoraFatehiStann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delighted By Her! 
-
-#TaraSutaria]]></title>
-        <id>https://nitter.1d4.us/Tarastann/status/1678216134145855493#m</id>
-        <link href="https://nitter.1d4.us/Tarastann/status/1678216134145855493#m"/>
-        <updated>2023-07-10T01:34:40.000Z</updated>
-        <summary type="html"><![CDATA[Delighted By Her! 
-#TaraSutaria]]></summary>
-        <author>
-            <name>@Tarastann</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kajal #KajalAggarwal]]></title>
         <id>https://nitter.1d4.us/actress_corner/status/1678155967845007360#m</id>
         <link href="https://nitter.1d4.us/actress_corner/status/1678155967845007360#m"/>
@@ -3224,16 +3235,6 @@ She's So Gorgeous!!🔥💫
         <summary type="html"><![CDATA[Kajal #KajalAggarwal]]></summary>
         <author>
             <name>@actress_corner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sleek 🔥 #JannatZubair]]></title>
-        <id>https://nitter.1d4.us/GlamssWorld/status/1678024757604941824#m</id>
-        <link href="https://nitter.1d4.us/GlamssWorld/status/1678024757604941824#m"/>
-        <updated>2023-07-09T12:54:13.000Z</updated>
-        <summary type="html"><![CDATA[Sleek 🔥 #JannatZubair]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
         </author>
     </entry>
     <entry>
@@ -3250,16 +3251,6 @@ She's So Gorgeous!!🔥💫
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Smile 😊 #Rashamika #RashmikaMandanna]]></title>
-        <id>https://nitter.1d4.us/rashmikastann/status/1677512475510730752#m</id>
-        <link href="https://nitter.1d4.us/rashmikastann/status/1677512475510730752#m"/>
-        <updated>2023-07-08T02:58:35.000Z</updated>
-        <summary type="html"><![CDATA[The Smile 😊 #Rashamika #RashmikaMandanna]]></summary>
-        <author>
-            <name>@rashmikastann</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What A Fu...... #NoraFatehi]]></title>
         <id>https://nitter.1d4.us/Norastann/status/1677512272212811776#m</id>
         <link href="https://nitter.1d4.us/Norastann/status/1677512272212811776#m"/>
@@ -3267,36 +3258,6 @@ She's So Gorgeous!!🔥💫
         <summary type="html"><![CDATA[What A Fu...... #NoraFatehi]]></summary>
         <author>
             <name>@Norastann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥🔥 #KiaraAdvani]]></title>
-        <id>https://nitter.1d4.us/Kiarastann/status/1677512068680024066#m</id>
-        <link href="https://nitter.1d4.us/Kiarastann/status/1677512068680024066#m"/>
-        <updated>2023-07-08T02:56:58.000Z</updated>
-        <summary type="html"><![CDATA[🔥🔥 #KiaraAdvani]]></summary>
-        <author>
-            <name>@Kiarastann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cutest Bean #AliaBhatt]]></title>
-        <id>https://nitter.1d4.us/Aliaastann/status/1677511749266976768#m</id>
-        <link href="https://nitter.1d4.us/Aliaastann/status/1677511749266976768#m"/>
-        <updated>2023-07-08T02:55:42.000Z</updated>
-        <summary type="html"><![CDATA[The Cutest Bean #AliaBhatt]]></summary>
-        <author>
-            <name>@Aliaastann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Into Her Eyes #JacquelineFernandez]]></title>
-        <id>https://nitter.1d4.us/Jacquelinestann/status/1677511365299433472#m</id>
-        <link href="https://nitter.1d4.us/Jacquelinestann/status/1677511365299433472#m"/>
-        <updated>2023-07-08T02:54:10.000Z</updated>
-        <summary type="html"><![CDATA[Deep Into Her Eyes #JacquelineFernandez]]></summary>
-        <author>
-            <name>@Jacquelinestann</name>
         </author>
     </entry>
     <entry>
@@ -3310,23 +3271,13 @@ She's So Gorgeous!!🔥💫
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Eye Play #JanhviKapoor]]></title>
-        <id>https://nitter.1d4.us/Janhviworlds/status/1677508958033174530#m</id>
-        <link href="https://nitter.1d4.us/Janhviworlds/status/1677508958033174530#m"/>
-        <updated>2023-07-08T02:44:36.000Z</updated>
-        <summary type="html"><![CDATA[The Eye Play #JanhviKapoor]]></summary>
+        <title type="html"><![CDATA[Radiant #SaraAliKhan]]></title>
+        <id>https://nitter.1d4.us/SaraxDiaries/status/1677509588072165376#m</id>
+        <link href="https://nitter.1d4.us/SaraxDiaries/status/1677509588072165376#m"/>
+        <updated>2023-07-08T02:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Radiant #SaraAliKhan]]></summary>
         <author>
-            <name>@Janhviworlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh God, Such a Hotness #DishaPatani]]></title>
-        <id>https://nitter.1d4.us/Dishastann/status/1677508727535190018#m</id>
-        <link href="https://nitter.1d4.us/Dishastann/status/1677508727535190018#m"/>
-        <updated>2023-07-08T02:43:41.000Z</updated>
-        <summary type="html"><![CDATA[Oh God, Such a Hotness #DishaPatani]]></summary>
-        <author>
-            <name>@Dishastann</name>
+            <name>@SaraxDiaries</name>
         </author>
     </entry>
     <entry>
@@ -3360,6 +3311,16 @@ She's So Gorgeous!!🔥💫
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[𝙈𝙧𝙪𝙣𝙖𝙡 𝙏𝙝𝙖𝙠𝙪𝙧 🍎🤤]]></title>
+        <id>https://nitter.1d4.us/DevasenaGifs/status/1677235936185262080#m</id>
+        <link href="https://nitter.1d4.us/DevasenaGifs/status/1677235936185262080#m"/>
+        <updated>2023-07-07T08:39:43.000Z</updated>
+        <summary type="html"><![CDATA[𝙈𝙧𝙪𝙣𝙖𝙡 𝙏𝙝𝙖𝙠𝙪𝙧 🍎🤤]]></summary>
+        <author>
+            <name>@DevasenaGifs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[She is extremely hot 🥵
 
 #SaraAliKhan]]></title>
@@ -3373,13 +3334,23 @@ She's So Gorgeous!!🔥💫
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Look at the masterpiece 🔥 #MalaikaArora]]></title>
-        <id>https://nitter.1d4.us/GlamssWorld/status/1676999402827939840#m</id>
-        <link href="https://nitter.1d4.us/GlamssWorld/status/1676999402827939840#m"/>
-        <updated>2023-07-06T16:59:49.000Z</updated>
-        <summary type="html"><![CDATA[Look at the masterpiece 🔥 #MalaikaArora]]></summary>
+        <title type="html"><![CDATA[𝘽𝙚𝙨𝙩 𝙎𝙝𝙤𝙩 𝙄𝙣 𝙒𝙝𝙤𝙡𝙚 𝙎𝙤𝙣𝙜 🍩😩 #TamannaahBhatia #JailerFirstSingle]]></title>
+        <id>https://nitter.1d4.us/DevasenaGifs/status/1676945051589459968#m</id>
+        <link href="https://nitter.1d4.us/DevasenaGifs/status/1676945051589459968#m"/>
+        <updated>2023-07-06T13:23:51.000Z</updated>
+        <summary type="html"><![CDATA[𝘽𝙚𝙨𝙩 𝙎𝙝𝙤𝙩 𝙄𝙣 𝙒𝙝𝙤𝙡𝙚 𝙎𝙤𝙣𝙜 🍩😩 #TamannaahBhatia #JailerFirstSingle]]></summary>
         <author>
-            <name>@GlamssWorld</name>
+            <name>@DevasenaGifs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[𝙏𝙖𝙢𝙖𝙣𝙣𝙖𝙝 𝘽𝙝𝙖𝙩𝙞𝙖 𝘽𝙚𝙡𝙡𝙮 𝙄𝙣 𝙎𝙡𝙤𝙬-𝙈𝙤 🍩😩]]></title>
+        <id>https://nitter.1d4.us/DevasenaGifs/status/1676943190643933185#m</id>
+        <link href="https://nitter.1d4.us/DevasenaGifs/status/1676943190643933185#m"/>
+        <updated>2023-07-06T13:16:27.000Z</updated>
+        <summary type="html"><![CDATA[𝙏𝙖𝙢𝙖𝙣𝙣𝙖𝙝 𝘽𝙝𝙖𝙩𝙞𝙖 𝘽𝙚𝙡𝙡𝙮 𝙄𝙣 𝙎𝙡𝙤𝙬-𝙈𝙤 🍩😩]]></summary>
+        <author>
+            <name>@DevasenaGifs</name>
         </author>
     </entry>
     <entry>
@@ -3396,6 +3367,16 @@ She's So Gorgeous!!🔥💫
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[𝙎𝙤 𝙈𝙪𝙘𝙝 𝙊𝙛 𝘿𝙚𝙨𝙩𝙧𝙪𝙘𝙩𝙞𝙤𝙣 𝙂𝙤𝙞𝙣𝙜 𝙊𝙣 𝙄𝙣 𝙏𝙝𝙚𝙧𝙚 🍎🤤]]></title>
+        <id>https://nitter.1d4.us/DevasenaGifs/status/1675827873104494593#m</id>
+        <link href="https://nitter.1d4.us/DevasenaGifs/status/1675827873104494593#m"/>
+        <updated>2023-07-03T11:24:34.000Z</updated>
+        <summary type="html"><![CDATA[𝙎𝙤 𝙈𝙪𝙘𝙝 𝙊𝙛 𝘿𝙚𝙨𝙩𝙧𝙪𝙘𝙩𝙞𝙤𝙣 𝙂𝙤𝙞𝙣𝙜 𝙊𝙣 𝙄𝙣 𝙏𝙝𝙚𝙧𝙚 🍎🤤]]></summary>
+        <author>
+            <name>@DevasenaGifs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Making Us Proud! 
 
 #KiaraAdvani #SatyaPremKiKatha]]></title>
@@ -3406,142 +3387,6 @@ She's So Gorgeous!!🔥💫
 #KiaraAdvani #SatyaPremKiKatha]]></summary>
         <author>
             <name>@Kiarastannn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Mirchi! 
-
-#NoraFatehi]]></title>
-        <id>https://nitter.1d4.us/NoraFatehiStann/status/1675680290780463105#m</id>
-        <link href="https://nitter.1d4.us/NoraFatehiStann/status/1675680290780463105#m"/>
-        <updated>2023-07-03T01:38:08.000Z</updated>
-        <summary type="html"><![CDATA[Red Mirchi! 
-#NoraFatehi]]></summary>
-        <author>
-            <name>@NoraFatehiStann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Her And Motorcycles!! 
-
-#TaraSutaria]]></title>
-        <id>https://nitter.1d4.us/Tarastann/status/1675680225978458113#m</id>
-        <link href="https://nitter.1d4.us/Tarastann/status/1675680225978458113#m"/>
-        <updated>2023-07-03T01:37:53.000Z</updated>
-        <summary type="html"><![CDATA[Her And Motorcycles!! 
-#TaraSutaria]]></summary>
-        <author>
-            <name>@Tarastann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kamaal Hai #RashmikaMandanna #Rashmika]]></title>
-        <id>https://nitter.1d4.us/rashmikastann/status/1675402242969702401#m</id>
-        <link href="https://nitter.1d4.us/rashmikastann/status/1675402242969702401#m"/>
-        <updated>2023-07-02T07:13:16.000Z</updated>
-        <summary type="html"><![CDATA[Kamaal Hai #RashmikaMandanna #Rashmika]]></summary>
-        <author>
-            <name>@rashmikastann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Into Her Eyes #AliaBhatt]]></title>
-        <id>https://nitter.1d4.us/Aliaastann/status/1675401954481278982#m</id>
-        <link href="https://nitter.1d4.us/Aliaastann/status/1675401954481278982#m"/>
-        <updated>2023-07-02T07:12:08.000Z</updated>
-        <summary type="html"><![CDATA[Into Her Eyes #AliaBhatt]]></summary>
-        <author>
-            <name>@Aliaastann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Lipstick Shade #RakulPreet #RakulPreetSingh]]></title>
-        <id>https://nitter.1d4.us/Rakulstann/status/1675401076839972865#m</id>
-        <link href="https://nitter.1d4.us/Rakulstann/status/1675401076839972865#m"/>
-        <updated>2023-07-02T07:08:38.000Z</updated>
-        <summary type="html"><![CDATA[The Lipstick Shade #RakulPreet #RakulPreetSingh]]></summary>
-        <author>
-            <name>@Rakulstann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sparkling #ShraddhaKapoor]]></title>
-        <id>https://nitter.1d4.us/Shraddhastann/status/1675400272640872448#m</id>
-        <link href="https://nitter.1d4.us/Shraddhastann/status/1675400272640872448#m"/>
-        <updated>2023-07-02T07:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Sparkling #ShraddhaKapoor]]></summary>
-        <author>
-            <name>@Shraddhastann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ek Nazar.... #KiaraAdvani]]></title>
-        <id>https://nitter.1d4.us/Kiarastann/status/1675398837480083456#m</id>
-        <link href="https://nitter.1d4.us/Kiarastann/status/1675398837480083456#m"/>
-        <updated>2023-07-02T06:59:44.000Z</updated>
-        <summary type="html"><![CDATA[Ek Nazar.... #KiaraAdvani]]></summary>
-        <author>
-            <name>@Kiarastann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[159K 🔥🔥 #NoraFatehi]]></title>
-        <id>https://nitter.1d4.us/Norastann/status/1675398393991147521#m</id>
-        <link href="https://nitter.1d4.us/Norastann/status/1675398393991147521#m"/>
-        <updated>2023-07-02T06:57:59.000Z</updated>
-        <summary type="html"><![CDATA[159K 🔥🔥 #NoraFatehi]]></summary>
-        <author>
-            <name>@Norastann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lips 👄 #TamannaahBhatia #Tamannaah]]></title>
-        <id>https://nitter.1d4.us/tamannaahstann/status/1675394513999892480#m</id>
-        <link href="https://nitter.1d4.us/tamannaahstann/status/1675394513999892480#m"/>
-        <updated>2023-07-02T06:42:34.000Z</updated>
-        <summary type="html"><![CDATA[Lips 👄 #TamannaahBhatia #Tamannaah]]></summary>
-        <author>
-            <name>@tamannaahstann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Husn Pari #HinaKhan]]></title>
-        <id>https://nitter.1d4.us/Hinastannn/status/1675393127161679873#m</id>
-        <link href="https://nitter.1d4.us/Hinastannn/status/1675393127161679873#m"/>
-        <updated>2023-07-02T06:37:03.000Z</updated>
-        <summary type="html"><![CDATA[Husn Pari #HinaKhan]]></summary>
-        <author>
-            <name>@Hinastannn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gorgeous 😻 #JanhviKapoor]]></title>
-        <id>https://nitter.1d4.us/Janhviworlds/status/1675391888327671808#m</id>
-        <link href="https://nitter.1d4.us/Janhviworlds/status/1675391888327671808#m"/>
-        <updated>2023-07-02T06:32:08.000Z</updated>
-        <summary type="html"><![CDATA[Gorgeous 😻 #JanhviKapoor]]></summary>
-        <author>
-            <name>@Janhviworlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Glow 🌟 #JacquelineFernandez]]></title>
-        <id>https://nitter.1d4.us/Jacquelinestann/status/1675391114382299136#m</id>
-        <link href="https://nitter.1d4.us/Jacquelinestann/status/1675391114382299136#m"/>
-        <updated>2023-07-02T06:29:03.000Z</updated>
-        <summary type="html"><![CDATA[The Glow 🌟 #JacquelineFernandez]]></summary>
-        <author>
-            <name>@Jacquelinestann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[134K 🔥 #DishaPatani]]></title>
-        <id>https://nitter.1d4.us/Dishastann/status/1675390625741697024#m</id>
-        <link href="https://nitter.1d4.us/Dishastann/status/1675390625741697024#m"/>
-        <updated>2023-07-02T06:27:07.000Z</updated>
-        <summary type="html"><![CDATA[134K 🔥 #DishaPatani]]></summary>
-        <author>
-            <name>@Dishastann</name>
         </author>
     </entry>
 </feed>
