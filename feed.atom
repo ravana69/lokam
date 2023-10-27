@@ -1,65 +1,409 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-26T01:12:33.456Z</id>
+    <id>urn:2023-10-27T01:12:34.239Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-26T01:12:33.456Z</updated>
+    <updated>2023-10-27T01:12:34.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[👑😴🔥]]></title>
-        <id>https://nitter.cz/MonsterBaddie/status/1717248316176847065#m</id>
-        <link href="https://nitter.cz/MonsterBaddie/status/1717248316176847065#m"/>
-        <updated>2023-10-25T18:34:38.000Z</updated>
-        <summary type="html"><![CDATA[👑😴🔥
-nitter.cz/Troll_Cinema/status/1717190036310089839#m]]></summary>
+        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Lust Devil 😈]]></title>
+        <id>https://nitter.cz/MonsterBaddie/status/1717593564992217145#m</id>
+        <link href="https://nitter.cz/MonsterBaddie/status/1717593564992217145#m"/>
+        <updated>2023-10-26T17:26:31.000Z</updated>
+        <summary type="html"><![CDATA[Lust Devil 😈]]></summary>
         <author>
             <name>@MonsterBaddie</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT by @MonsterBaddie: 3K Up 🧡
+        <title type="html"><![CDATA[Kangana 🔥]]></title>
+        <id>https://nitter.cz/GlamspotA/status/1717588761377189987#m</id>
+        <link href="https://nitter.cz/GlamspotA/status/1717588761377189987#m"/>
+        <updated>2023-10-26T17:07:26.000Z</updated>
+        <summary type="html"><![CDATA[Kangana 🔥]]></summary>
+        <author>
+            <name>@GlamspotA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Janhvi Kapoor 🔥]]></title>
+        <id>https://nitter.cz/acviralhub/status/1717587338111644074#m</id>
+        <link href="https://nitter.cz/acviralhub/status/1717587338111644074#m"/>
+        <updated>2023-10-26T17:01:47.000Z</updated>
+        <summary type="html"><![CDATA[Janhvi Kapoor 🔥]]></summary>
+        <author>
+            <name>@acviralhub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reba😍]]></title>
+        <id>https://nitter.cz/Rampage0690/status/1717579755439181887#m</id>
+        <link href="https://nitter.cz/Rampage0690/status/1717579755439181887#m"/>
+        <updated>2023-10-26T16:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Reba😍]]></summary>
+        <author>
+            <name>@Rampage0690</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Sam_RockyEdits: OG 🤤🔥]]></title>
+        <id>https://nitter.cz/MonsterBaddie/status/1717578967727960448#m</id>
+        <link href="https://nitter.cz/MonsterBaddie/status/1717578967727960448#m"/>
+        <updated>2023-10-26T16:28:31.000Z</updated>
+        <summary type="html"><![CDATA[OG 🤤🔥]]></summary>
+        <author>
+            <name>@MonsterBaddie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bigbOOss]]></title>
+        <id>https://nitter.cz/alpha_leporis/status/1717577990924804416#m</id>
+        <link href="https://nitter.cz/alpha_leporis/status/1717577990924804416#m"/>
+        <updated>2023-10-26T16:24:38.000Z</updated>
+        <summary type="html"><![CDATA[bigbOOss]]></summary>
+        <author>
+            <name>@alpha_leporis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amala 🖤🖤]]></title>
+        <id>https://nitter.cz/Sam_RockyEdits/status/1717570911254253869#m</id>
+        <link href="https://nitter.cz/Sam_RockyEdits/status/1717570911254253869#m"/>
+        <updated>2023-10-26T15:56:30.000Z</updated>
+        <summary type="html"><![CDATA[Amala 🖤🖤]]></summary>
+        <author>
+            <name>@Sam_RockyEdits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jinal🔥🧐]]></title>
+        <id>https://nitter.cz/Rampage0690/status/1717568578667561187#m</id>
+        <link href="https://nitter.cz/Rampage0690/status/1717568578667561187#m"/>
+        <updated>2023-10-26T15:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Jinal🔥🧐]]></summary>
+        <author>
+            <name>@Rampage0690</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gayatri💣]]></title>
+        <id>https://nitter.cz/Rampage0690/status/1717564956311486687#m</id>
+        <link href="https://nitter.cz/Rampage0690/status/1717564956311486687#m"/>
+        <updated>2023-10-26T15:32:51.000Z</updated>
+        <summary type="html"><![CDATA[Gayatri💣]]></summary>
+        <author>
+            <name>@Rampage0690</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Feel the Flesh 🤤]]></title>
+        <id>https://nitter.cz/MonsterBaddie/status/1717558808271339878#m</id>
+        <link href="https://nitter.cz/MonsterBaddie/status/1717558808271339878#m"/>
+        <updated>2023-10-26T15:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Feel the Flesh 🤤]]></summary>
+        <author>
+            <name>@MonsterBaddie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Sam_RockyEdits: 🤤👅]]></title>
+        <id>https://nitter.cz/MonsterBaddie/status/1717553012376482218#m</id>
+        <link href="https://nitter.cz/MonsterBaddie/status/1717553012376482218#m"/>
+        <updated>2023-10-26T14:45:23.000Z</updated>
+        <summary type="html"><![CDATA[🤤👅]]></summary>
+        <author>
+            <name>@MonsterBaddie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Not yet Over 🤤]]></title>
+        <id>https://nitter.cz/MonsterBaddie/status/1717545256135327852#m</id>
+        <link href="https://nitter.cz/MonsterBaddie/status/1717545256135327852#m"/>
+        <updated>2023-10-26T14:14:34.000Z</updated>
+        <summary type="html"><![CDATA[Not yet Over 🤤]]></summary>
+        <author>
+            <name>@MonsterBaddie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swati🔥]]></title>
+        <id>https://nitter.cz/Rampage0690/status/1717543714804154796#m</id>
+        <link href="https://nitter.cz/Rampage0690/status/1717543714804154796#m"/>
+        <updated>2023-10-26T14:08:26.000Z</updated>
+        <summary type="html"><![CDATA[Swati🔥]]></summary>
+        <author>
+            <name>@Rampage0690</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Asin 🥵]]></title>
+        <id>https://nitter.cz/Sam_RockyEdits/status/1717537036423590266#m</id>
+        <link href="https://nitter.cz/Sam_RockyEdits/status/1717537036423590266#m"/>
+        <updated>2023-10-26T13:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Asin 🥵]]></summary>
+        <author>
+            <name>@Sam_RockyEdits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malavika Mohanan 🔥]]></title>
+        <id>https://nitter.cz/acviralhub/status/1717536150850568395#m</id>
+        <link href="https://nitter.cz/acviralhub/status/1717536150850568395#m"/>
+        <updated>2023-10-26T13:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Malavika Mohanan 🔥]]></summary>
+        <author>
+            <name>@acviralhub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Pala rajakala pathachu ma 🔥
+Nee orasama odidu 🤜🤛
 
-.]]></title>
-        <id>https://nitter.cz/Midnightbaba/status/1717247567027933384#m</id>
-        <link href="https://nitter.cz/Midnightbaba/status/1717247567027933384#m"/>
-        <updated>2023-10-25T18:31:39.000Z</updated>
-        <summary type="html"><![CDATA[3K Up 🧡
+461 CRORES+ - HIGHEST TOTAL GROSS COLLECTION IN THE HISTORY OF TAMIL CINEMA (7 DAYS) 😎
 
-.]]></summary>
+WORLDWIDE BOX OFFICE RAMPAGE 🫡
+
+#LeoIndustryHit 
+
+#Thalapathy @actorvijay sir @Dir_Lokesh @trishtrashers @anirudhofficial @duttsanjay @akarjunofficial @7screenstudio @Jagadishbliss @PharsFilm @ahimsafilms @GTelefilms @SitharaEnts @SwagathOffl @GokulamMovies @SonyMusicSouth #BlockbusterLeo #Leo]]></title>
+        <id>https://nitter.cz/7screenstudio/status/1717526495965417545#m</id>
+        <link href="https://nitter.cz/7screenstudio/status/1717526495965417545#m"/>
+        <updated>2023-10-26T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Pala rajakala pathachu ma 🔥
+#LeoIndustryHit 
+#Thalapathy @actorvijay sir @Dir_Lokesh @trishtrashers @anirudhofficial @duttsanjay @akarjunofficial @7screenstudio @Jagadishbliss @PharsFilm @ahimsafilms @GTelefilms @SitharaEnts @SwagathOffl @GokulamMovies @SonyMusicSouth #BlockbusterLeo #Leo]]></summary>
         <author>
-            <name>@Midnightbaba</name>
+            <name>@7screenstudio</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT by @Sam_RockyEdits: New Trend Started By Mallus 🤤]]></title>
-        <id>https://nitter.cz/MonsterBaddie/status/1717247353907040570#m</id>
-        <link href="https://nitter.cz/MonsterBaddie/status/1717247353907040570#m"/>
-        <updated>2023-10-25T18:30:48.000Z</updated>
-        <summary type="html"><![CDATA[New Trend Started By Mallus 🤤]]></summary>
+        <title type="html"><![CDATA[RT by @Sam_RockyEdits: 🤤🍫]]></title>
+        <id>https://nitter.cz/MonsterBaddie/status/1717512833209106767#m</id>
+        <link href="https://nitter.cz/MonsterBaddie/status/1717512833209106767#m"/>
+        <updated>2023-10-26T12:05:43.000Z</updated>
+        <summary type="html"><![CDATA[🤤🍫]]></summary>
         <author>
             <name>@MonsterBaddie</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Trend Started By Mallus 🤤]]></title>
-        <id>https://nitter.cz/MonsterBaddie/status/1717247353907040570#m</id>
-        <link href="https://nitter.cz/MonsterBaddie/status/1717247353907040570#m"/>
-        <updated>2023-10-25T18:30:48.000Z</updated>
-        <summary type="html"><![CDATA[New Trend Started By Mallus 🤤]]></summary>
+        <title type="html"><![CDATA[Megha 🍗🥵👅]]></title>
+        <id>https://nitter.cz/Sam_RockyEdits/status/1717510499787780164#m</id>
+        <link href="https://nitter.cz/Sam_RockyEdits/status/1717510499787780164#m"/>
+        <updated>2023-10-26T11:56:27.000Z</updated>
+        <summary type="html"><![CDATA[Megha 🍗🥵👅]]></summary>
+        <author>
+            <name>@Sam_RockyEdits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INDRIJA]]></title>
+        <id>https://nitter.cz/alpha_leporis/status/1717502556090548625#m</id>
+        <link href="https://nitter.cz/alpha_leporis/status/1717502556090548625#m"/>
+        <updated>2023-10-26T11:24:53.000Z</updated>
+        <summary type="html"><![CDATA[INDRIJA]]></summary>
+        <author>
+            <name>@alpha_leporis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Sam Dots 🤤]]></title>
+        <id>https://nitter.cz/MonsterBaddie/status/1717497853944504710#m</id>
+        <link href="https://nitter.cz/MonsterBaddie/status/1717497853944504710#m"/>
+        <updated>2023-10-26T11:06:12.000Z</updated>
+        <summary type="html"><![CDATA[Sam Dots 🤤]]></summary>
         <author>
             <name>@MonsterBaddie</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT by @MonsterBaddie: Samantha's erection of nips 🤤😮
-@MonsterBaddie]]></title>
-        <id>https://nitter.cz/MrYug217/status/1717244538258100531#m</id>
-        <link href="https://nitter.cz/MrYug217/status/1717244538258100531#m"/>
-        <updated>2023-10-25T18:19:37.000Z</updated>
-        <summary type="html"><![CDATA[Samantha's erection of nips 🤤😮
-@MonsterBaddie]]></summary>
+        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Vampire Mami 🥵]]></title>
+        <id>https://nitter.cz/MonsterBaddie/status/1717486912095818067#m</id>
+        <link href="https://nitter.cz/MonsterBaddie/status/1717486912095818067#m"/>
+        <updated>2023-10-26T10:22:43.000Z</updated>
+        <summary type="html"><![CDATA[Vampire Mami 🥵]]></summary>
         <author>
-            <name>@MrYug217</name>
+            <name>@MonsterBaddie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Sam_RockyEdits: 🤤]]></title>
+        <id>https://nitter.cz/MonsterBaddie/status/1717473806833578364#m</id>
+        <link href="https://nitter.cz/MonsterBaddie/status/1717473806833578364#m"/>
+        <updated>2023-10-26T09:30:39.000Z</updated>
+        <summary type="html"><![CDATA[🤤]]></summary>
+        <author>
+            <name>@MonsterBaddie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Sam 🤤]]></title>
+        <id>https://nitter.cz/MonsterBaddie/status/1717456061433782596#m</id>
+        <link href="https://nitter.cz/MonsterBaddie/status/1717456061433782596#m"/>
+        <updated>2023-10-26T08:20:08.000Z</updated>
+        <summary type="html"><![CDATA[Sam 🤤]]></summary>
+        <author>
+            <name>@MonsterBaddie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mouni Roy 🔥]]></title>
+        <id>https://nitter.cz/acviralhub/status/1717454424069779851#m</id>
+        <link href="https://nitter.cz/acviralhub/status/1717454424069779851#m"/>
+        <updated>2023-10-26T08:13:38.000Z</updated>
+        <summary type="html"><![CDATA[Mouni Roy 🔥]]></summary>
+        <author>
+            <name>@acviralhub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amala 🥵]]></title>
+        <id>https://nitter.cz/Sam_RockyEdits/status/1717450555445174449#m</id>
+        <link href="https://nitter.cz/Sam_RockyEdits/status/1717450555445174449#m"/>
+        <updated>2023-10-26T07:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Amala 🥵]]></summary>
+        <author>
+            <name>@Sam_RockyEdits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avantika🥵]]></title>
+        <id>https://nitter.cz/Rampage0690/status/1717449690453794892#m</id>
+        <link href="https://nitter.cz/Rampage0690/status/1717449690453794892#m"/>
+        <updated>2023-10-26T07:54:49.000Z</updated>
+        <summary type="html"><![CDATA[Avantika🥵]]></summary>
+        <author>
+            <name>@Rampage0690</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LeelA😘]]></title>
+        <id>https://nitter.cz/Rampage0690/status/1717447042849746944#m</id>
+        <link href="https://nitter.cz/Rampage0690/status/1717447042849746944#m"/>
+        <updated>2023-10-26T07:44:18.000Z</updated>
+        <summary type="html"><![CDATA[LeelA😘]]></summary>
+        <author>
+            <name>@Rampage0690</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Sam_RockyEdits: 🥵🔥🍫]]></title>
+        <id>https://nitter.cz/MonsterBaddie/status/1717444520693174368#m</id>
+        <link href="https://nitter.cz/MonsterBaddie/status/1717444520693174368#m"/>
+        <updated>2023-10-26T07:34:16.000Z</updated>
+        <summary type="html"><![CDATA[🥵🔥🍫]]></summary>
+        <author>
+            <name>@MonsterBaddie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Sam_RockyEdits: HBD Megha baby 🤤👅
+Full size 🥵]]></title>
+        <id>https://nitter.cz/Sam_RockyEdits/status/1717437266648527158#m</id>
+        <link href="https://nitter.cz/Sam_RockyEdits/status/1717437266648527158#m"/>
+        <updated>2023-10-26T07:05:27.000Z</updated>
+        <summary type="html"><![CDATA[HBD Megha baby 🤤👅
+Full size 🥵]]></summary>
+        <author>
+            <name>@Sam_RockyEdits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meenakshi 🥥🥵🔥]]></title>
+        <id>https://nitter.cz/GlamspotA/status/1717428596698972448#m</id>
+        <link href="https://nitter.cz/GlamspotA/status/1717428596698972448#m"/>
+        <updated>2023-10-26T06:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Meenakshi 🥥🥵🔥]]></summary>
+        <author>
+            <name>@GlamspotA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amla😍]]></title>
+        <id>https://nitter.cz/Rampage0690/status/1717423080019226853#m</id>
+        <link href="https://nitter.cz/Rampage0690/status/1717423080019226853#m"/>
+        <updated>2023-10-26T06:09:05.000Z</updated>
+        <summary type="html"><![CDATA[Amla😍]]></summary>
+        <author>
+            <name>@Rampage0690</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paul🥵]]></title>
+        <id>https://nitter.cz/Rampage0690/status/1717422761415688534#m</id>
+        <link href="https://nitter.cz/Rampage0690/status/1717422761415688534#m"/>
+        <updated>2023-10-26T06:07:49.000Z</updated>
+        <summary type="html"><![CDATA[Paul🥵]]></summary>
+        <author>
+            <name>@Rampage0690</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shruti Hassan 🔥]]></title>
+        <id>https://nitter.cz/acviralhub/status/1717417755107119292#m</id>
+        <link href="https://nitter.cz/acviralhub/status/1717417755107119292#m"/>
+        <updated>2023-10-26T05:47:55.000Z</updated>
+        <summary type="html"><![CDATA[Shruti Hassan 🔥]]></summary>
+        <author>
+            <name>@acviralhub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Jacquelinestann: Kya adaa kya jalwe tere paaro #JacquelineFernandez]]></title>
+        <id>https://nitter.cz/Jacquelinestann/status/1717395005047009675#m</id>
+        <link href="https://nitter.cz/Jacquelinestann/status/1717395005047009675#m"/>
+        <updated>2023-10-26T04:17:31.000Z</updated>
+        <summary type="html"><![CDATA[Kya adaa kya jalwe tere paaro #JacquelineFernandez]]></summary>
+        <author>
+            <name>@Jacquelinestann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @sarastannn: Teri ishi addayein per fidda hum hai 🥵💓
+
+#SaraAliKhan]]></title>
+        <id>https://nitter.cz/sarastannn/status/1717362857644532211#m</id>
+        <link href="https://nitter.cz/sarastannn/status/1717362857644532211#m"/>
+        <updated>2023-10-26T02:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Teri ishi addayein per fidda hum hai 🥵💓
+#SaraAliKhan]]></summary>
+        <author>
+            <name>@sarastannn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @Janhviworlds: Her figure and lips 🥵
+
+#JanhviKapoor]]></title>
+        <id>https://nitter.cz/janhvihot/status/1717361189720559920#m</id>
+        <link href="https://nitter.cz/janhvihot/status/1717361189720559920#m"/>
+        <updated>2023-10-26T02:03:09.000Z</updated>
+        <summary type="html"><![CDATA[Her figure and lips 🥵
+#JanhviKapoor]]></summary>
+        <author>
+            <name>@janhvihot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kushi💥]]></title>
+        <id>https://nitter.cz/Rampage0690/status/1717361168980091346#m</id>
+        <link href="https://nitter.cz/Rampage0690/status/1717361168980091346#m"/>
+        <updated>2023-10-26T02:03:04.000Z</updated>
+        <summary type="html"><![CDATA[Kushi💥]]></summary>
+        <author>
+            <name>@Rampage0690</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ohh my god perfect plump body, that waist chain and navel. 🥵🔥
+#MalavikaMohanan]]></title>
+        <id>https://nitter.cz/GlamspotA/status/1717355209259962693#m</id>
+        <link href="https://nitter.cz/GlamspotA/status/1717355209259962693#m"/>
+        <updated>2023-10-26T01:39:23.000Z</updated>
+        <summary type="html"><![CDATA[Ohh my god perfect plump body, that waist chain and navel. 🥵🔥
+#MalavikaMohanan]]></summary>
+        <author>
+            <name>@GlamspotA</name>
         </author>
     </entry>
     <entry>
@@ -74,27 +418,7 @@ nitter.cz/SaraxDiaries/status/1717232751991312746#m]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Finally Pits View 🤤👅]]></title>
-        <id>https://nitter.cz/MonsterBaddie/status/1717232805661626460#m</id>
-        <link href="https://nitter.cz/MonsterBaddie/status/1717232805661626460#m"/>
-        <updated>2023-10-25T17:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Finally Pits View 🤤👅]]></summary>
-        <author>
-            <name>@MonsterBaddie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finally Pits View 🤤👅]]></title>
-        <id>https://nitter.cz/MonsterBaddie/status/1717232805661626460#m</id>
-        <link href="https://nitter.cz/MonsterBaddie/status/1717232805661626460#m"/>
-        <updated>2023-10-25T17:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Finally Pits View 🤤👅]]></summary>
-        <author>
-            <name>@MonsterBaddie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanks a lot for 100K guys, love you 100000 times #SaraAliKhan]]></title>
+        <title type="html"><![CDATA[RT by @SaraxDiaries: Thanks a lot for 100K guys, love you 100000 times #SaraAliKhan]]></title>
         <id>https://nitter.cz/SaraxDiaries/status/1717232751991312746#m</id>
         <link href="https://nitter.cz/SaraxDiaries/status/1717232751991312746#m"/>
         <updated>2023-10-25T17:32:47.000Z</updated>
@@ -104,7 +428,7 @@ nitter.cz/SaraxDiaries/status/1717232751991312746#m]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hey Hottie..❤️‍🔥 #NoraFatehi]]></title>
+        <title type="html"><![CDATA[RT by @Norastann: Hey Hottie..❤️‍🔥 #NoraFatehi]]></title>
         <id>https://nitter.cz/Norastann/status/1717232216697458712#m</id>
         <link href="https://nitter.cz/Norastann/status/1717232216697458712#m"/>
         <updated>2023-10-25T17:30:39.000Z</updated>
@@ -134,36 +458,13 @@ nitter.cz/SaraxDiaries/status/1717232751991312746#m]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT by @MonsterBaddie: Mallu Magic ❤️‍🔥🥵
-
-#MalavikaMohanan]]></title>
-        <id>https://nitter.cz/Midnightbaba/status/1717216803708170276#m</id>
-        <link href="https://nitter.cz/Midnightbaba/status/1717216803708170276#m"/>
-        <updated>2023-10-25T16:29:25.000Z</updated>
-        <summary type="html"><![CDATA[Mallu Magic ❤️‍🔥🥵
-#MalavikaMohanan]]></summary>
-        <author>
-            <name>@Midnightbaba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🥵]]></title>
+        <title type="html"><![CDATA[RT by @Rampage0690: 🥵]]></title>
         <id>https://nitter.cz/Rampage0690/status/1717207699711283603#m</id>
         <link href="https://nitter.cz/Rampage0690/status/1717207699711283603#m"/>
         <updated>2023-10-25T15:53:14.000Z</updated>
         <summary type="html"><![CDATA[🥵]]></summary>
         <author>
             <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @MonsterBaddie: 𝙊𝙣𝙚 𝙃𝙚𝙡𝙡𝙖 𝙁𝙞𝙜𝙪𝙧𝙚 👅😩]]></title>
-        <id>https://nitter.cz/RaashiSena/status/1717198805517344986#m</id>
-        <link href="https://nitter.cz/RaashiSena/status/1717198805517344986#m"/>
-        <updated>2023-10-25T15:17:53.000Z</updated>
-        <summary type="html"><![CDATA[𝙊𝙣𝙚 𝙃𝙚𝙡𝙡𝙖 𝙁𝙞𝙜𝙪𝙧𝙚 👅😩]]></summary>
-        <author>
-            <name>@RaashiSena</name>
         </author>
     </entry>
     <entry>
@@ -174,62 +475,6 @@ nitter.cz/SaraxDiaries/status/1717232751991312746#m]]></summary>
         <summary type="html"><![CDATA[Meh😍]]></summary>
         <author>
             <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @MonsterBaddie: 𝙈𝙖𝙡𝙖𝙫𝙞𝙠𝙖 𝙈𝙤𝙝𝙖𝙣𝙖𝙣 🥵👅]]></title>
-        <id>https://nitter.cz/RaashiSena/status/1717198244067823890#m</id>
-        <link href="https://nitter.cz/RaashiSena/status/1717198244067823890#m"/>
-        <updated>2023-10-25T15:15:40.000Z</updated>
-        <summary type="html"><![CDATA[𝙈𝙖𝙡𝙖𝙫𝙞𝙠𝙖 𝙈𝙤𝙝𝙖𝙣𝙖𝙣 🥵👅]]></summary>
-        <author>
-            <name>@RaashiSena</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @MonsterBaddie: Jala Kanya 🥵🥵🥵
-
-#MalavikaMohanan]]></title>
-        <id>https://nitter.cz/Midnightbaba/status/1717196673032855862#m</id>
-        <link href="https://nitter.cz/Midnightbaba/status/1717196673032855862#m"/>
-        <updated>2023-10-25T15:09:25.000Z</updated>
-        <summary type="html"><![CDATA[Jala Kanya 🥵🥵🥵
-#MalavikaMohanan]]></summary>
-        <author>
-            <name>@Midnightbaba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Sam_RockyEdits: DB 🥵]]></title>
-        <id>https://nitter.cz/Sam_RockyEdits/status/1717193635492691995#m</id>
-        <link href="https://nitter.cz/Sam_RockyEdits/status/1717193635492691995#m"/>
-        <updated>2023-10-25T14:57:21.000Z</updated>
-        <summary type="html"><![CDATA[DB 🥵]]></summary>
-        <author>
-            <name>@Sam_RockyEdits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @MonsterBaddie: DB 🥵]]></title>
-        <id>https://nitter.cz/Sam_RockyEdits/status/1717193635492691995#m</id>
-        <link href="https://nitter.cz/Sam_RockyEdits/status/1717193635492691995#m"/>
-        <updated>2023-10-25T14:57:21.000Z</updated>
-        <summary type="html"><![CDATA[DB 🥵]]></summary>
-        <author>
-            <name>@Sam_RockyEdits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @MonsterBaddie: Uff such a hot shape uh 🥵 ...malz 🤤💦
-
-#MalavikaMohanan]]></title>
-        <id>https://nitter.cz/Actress_Garage/status/1717186797330170012#m</id>
-        <link href="https://nitter.cz/Actress_Garage/status/1717186797330170012#m"/>
-        <updated>2023-10-25T14:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Uff such a hot shape uh 🥵 ...malz 🤤💦
-#MalavikaMohanan]]></summary>
-        <author>
-            <name>@Actress_Garage</name>
         </author>
     </entry>
     <entry>
@@ -264,56 +509,6 @@ nitter.cz/acviralhub/status/1717172015365566712#m]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Be it traditional or modern Rai Laxmi was a 💣💥 in both 🥵🥵]]></title>
-        <id>https://nitter.cz/Sam_RockyEdits/status/1717176235804209466#m</id>
-        <link href="https://nitter.cz/Sam_RockyEdits/status/1717176235804209466#m"/>
-        <updated>2023-10-25T13:48:12.000Z</updated>
-        <summary type="html"><![CDATA[Be it traditional or modern Rai Laxmi was a 💣💥 in both 🥵🥵]]></summary>
-        <author>
-            <name>@Sam_RockyEdits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @MonsterBaddie: This one is for mutual 💦 kinda treat 😉
-Guess.
-Beholding my 4days 💦 and draining for her Today 🥵
-
-#MalavikaMohanan]]></title>
-        <id>https://nitter.cz/FGtributes/status/1717175345424830888#m</id>
-        <link href="https://nitter.cz/FGtributes/status/1717175345424830888#m"/>
-        <updated>2023-10-25T13:44:40.000Z</updated>
-        <summary type="html"><![CDATA[This one is for mutual 💦 kinda treat 😉
-#MalavikaMohanan]]></summary>
-        <author>
-            <name>@FGtributes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @MonsterBaddie: Yesss!! Expected one 😍😍😍
-
-Maalu Pits 🤤❤]]></title>
-        <id>https://nitter.cz/NavelVeriyan/status/1717175215854067766#m</id>
-        <link href="https://nitter.cz/NavelVeriyan/status/1717175215854067766#m"/>
-        <updated>2023-10-25T13:44:09.000Z</updated>
-        <summary type="html"><![CDATA[Yesss!! Expected one 😍😍😍
-
-Maalu Pits 🤤❤]]></summary>
-        <author>
-            <name>@NavelVeriyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fort on 🔥🥵]]></title>
-        <id>https://nitter.cz/MonsterBaddie/status/1717174686109622562#m</id>
-        <link href="https://nitter.cz/MonsterBaddie/status/1717174686109622562#m"/>
-        <updated>2023-10-25T13:42:03.000Z</updated>
-        <summary type="html"><![CDATA[Fort on 🔥🥵
-nitter.cz/AbGeorge_/status/1717118394506395772#m]]></summary>
-        <author>
-            <name>@MonsterBaddie</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Malavika Mohanan 🔥]]></title>
         <id>https://nitter.cz/acviralhub/status/1717172015365566712#m</id>
         <link href="https://nitter.cz/acviralhub/status/1717172015365566712#m"/>
@@ -321,56 +516,6 @@ nitter.cz/AbGeorge_/status/1717118394506395772#m]]></summary>
         <summary type="html"><![CDATA[Malavika Mohanan 🔥]]></summary>
         <author>
             <name>@acviralhub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Sam_RockyEdits: 🥵🥵🥵🥵🥵]]></title>
-        <id>https://nitter.cz/MonsterBaddie/status/1717169898802290968#m</id>
-        <link href="https://nitter.cz/MonsterBaddie/status/1717169898802290968#m"/>
-        <updated>2023-10-25T13:23:02.000Z</updated>
-        <summary type="html"><![CDATA[🥵🥵🥵🥵🥵]]></summary>
-        <author>
-            <name>@MonsterBaddie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🥵🥵🥵🥵🥵]]></title>
-        <id>https://nitter.cz/MonsterBaddie/status/1717169898802290968#m</id>
-        <link href="https://nitter.cz/MonsterBaddie/status/1717169898802290968#m"/>
-        <updated>2023-10-25T13:23:02.000Z</updated>
-        <summary type="html"><![CDATA[🥵🥵🥵🥵🥵]]></summary>
-        <author>
-            <name>@MonsterBaddie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @MonsterBaddie: Flow 🤍]]></title>
-        <id>https://nitter.cz/MalavikaM_/status/1717169690957508897#m</id>
-        <link href="https://nitter.cz/MalavikaM_/status/1717169690957508897#m"/>
-        <updated>2023-10-25T13:22:12.000Z</updated>
-        <summary type="html"><![CDATA[Flow 🤍]]></summary>
-        <author>
-            <name>@MalavikaM_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Uffff mole Back 🥵👅]]></title>
-        <id>https://nitter.cz/MonsterBaddie/status/1717165981339209859#m</id>
-        <link href="https://nitter.cz/MonsterBaddie/status/1717165981339209859#m"/>
-        <updated>2023-10-25T13:07:28.000Z</updated>
-        <summary type="html"><![CDATA[Uffff mole Back 🥵👅]]></summary>
-        <author>
-            <name>@MonsterBaddie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uffff mole Back 🥵👅]]></title>
-        <id>https://nitter.cz/MonsterBaddie/status/1717165981339209859#m</id>
-        <link href="https://nitter.cz/MonsterBaddie/status/1717165981339209859#m"/>
-        <updated>2023-10-25T13:07:28.000Z</updated>
-        <summary type="html"><![CDATA[Uffff mole Back 🥵👅]]></summary>
-        <author>
-            <name>@MonsterBaddie</name>
         </author>
     </entry>
     <entry>
@@ -404,26 +549,6 @@ nitter.cz/AbGeorge_/status/1717118394506395772#m]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Honey 🥵🍼]]></title>
-        <id>https://nitter.cz/Sam_RockyEdits/status/1717147753292411096#m</id>
-        <link href="https://nitter.cz/Sam_RockyEdits/status/1717147753292411096#m"/>
-        <updated>2023-10-25T11:55:02.000Z</updated>
-        <summary type="html"><![CDATA[Honey 🥵🍼]]></summary>
-        <author>
-            <name>@Sam_RockyEdits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @MonsterBaddie: Honey 🥵🍼]]></title>
-        <id>https://nitter.cz/Sam_RockyEdits/status/1717147753292411096#m</id>
-        <link href="https://nitter.cz/Sam_RockyEdits/status/1717147753292411096#m"/>
-        <updated>2023-10-25T11:55:02.000Z</updated>
-        <summary type="html"><![CDATA[Honey 🥵🍼]]></summary>
-        <author>
-            <name>@Sam_RockyEdits</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sree💜]]></title>
         <id>https://nitter.cz/Rampage0690/status/1717140604327768492#m</id>
         <link href="https://nitter.cz/Rampage0690/status/1717140604327768492#m"/>
@@ -443,59 +568,6 @@ Malavika Mohanan 🤍]]></title>
 Malavika Mohanan 🤍]]></summary>
         <author>
             <name>@GlamspotA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Hip Chain 🤤]]></title>
-        <id>https://nitter.cz/MonsterBaddie/status/1717131868863345071#m</id>
-        <link href="https://nitter.cz/MonsterBaddie/status/1717131868863345071#m"/>
-        <updated>2023-10-25T10:51:54.000Z</updated>
-        <summary type="html"><![CDATA[Hip Chain 🤤]]></summary>
-        <author>
-            <name>@MonsterBaddie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @MonsterBaddie: Mallu Maal 🤍❤️‍🔥
-
-#MalavikaMohanan]]></title>
-        <id>https://nitter.cz/Midnightbaba/status/1717128629317251432#m</id>
-        <link href="https://nitter.cz/Midnightbaba/status/1717128629317251432#m"/>
-        <updated>2023-10-25T10:39:02.000Z</updated>
-        <summary type="html"><![CDATA[Mallu Maal 🤍❤️‍🔥
-#MalavikaMohanan]]></summary>
-        <author>
-            <name>@Midnightbaba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Mermaid Maalz 🤤🔥]]></title>
-        <id>https://nitter.cz/MonsterBaddie/status/1717124311507669350#m</id>
-        <link href="https://nitter.cz/MonsterBaddie/status/1717124311507669350#m"/>
-        <updated>2023-10-25T10:21:53.000Z</updated>
-        <summary type="html"><![CDATA[Mermaid Maalz 🤤🔥]]></summary>
-        <author>
-            <name>@MonsterBaddie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Like a Goddess 🥵]]></title>
-        <id>https://nitter.cz/Sam_RockyEdits/status/1717121266690474423#m</id>
-        <link href="https://nitter.cz/Sam_RockyEdits/status/1717121266690474423#m"/>
-        <updated>2023-10-25T10:09:47.000Z</updated>
-        <summary type="html"><![CDATA[Like a Goddess 🥵]]></summary>
-        <author>
-            <name>@Sam_RockyEdits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Maalu 🥵]]></title>
-        <id>https://nitter.cz/Sam_RockyEdits/status/1717117504844378529#m</id>
-        <link href="https://nitter.cz/Sam_RockyEdits/status/1717117504844378529#m"/>
-        <updated>2023-10-25T09:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Maalu 🥵]]></summary>
-        <author>
-            <name>@Sam_RockyEdits</name>
         </author>
     </entry>
     <entry>
@@ -526,36 +598,6 @@ Malavika Mohanan 🤍]]></summary>
         <summary type="html"><![CDATA[Malavika Mohanan 🔥]]></summary>
         <author>
             <name>@acviralhub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Deep 🤤]]></title>
-        <id>https://nitter.cz/MonsterBaddie/status/1717110201147621464#m</id>
-        <link href="https://nitter.cz/MonsterBaddie/status/1717110201147621464#m"/>
-        <updated>2023-10-25T09:25:48.000Z</updated>
-        <summary type="html"><![CDATA[Deep 🤤]]></summary>
-        <author>
-            <name>@MonsterBaddie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Pranitha 🥵🤤]]></title>
-        <id>https://nitter.cz/Sam_RockyEdits/status/1717110055714394464#m</id>
-        <link href="https://nitter.cz/Sam_RockyEdits/status/1717110055714394464#m"/>
-        <updated>2023-10-25T09:25:14.000Z</updated>
-        <summary type="html"><![CDATA[Pranitha 🥵🤤]]></summary>
-        <author>
-            <name>@Sam_RockyEdits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Teen b*tch Millie Bobby 🥵🥵]]></title>
-        <id>https://nitter.cz/Sam_RockyEdits/status/1717092096543502423#m</id>
-        <link href="https://nitter.cz/Sam_RockyEdits/status/1717092096543502423#m"/>
-        <updated>2023-10-25T08:13:52.000Z</updated>
-        <summary type="html"><![CDATA[Teen b*tch Millie Bobby 🥵🥵]]></summary>
-        <author>
-            <name>@Sam_RockyEdits</name>
         </author>
     </entry>
     <entry>
@@ -703,66 +745,6 @@ Period 💫]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Milkey😘]]></title>
-        <id>https://nitter.cz/Rampage0690/status/1716818954390528189#m</id>
-        <link href="https://nitter.cz/Rampage0690/status/1716818954390528189#m"/>
-        <updated>2023-10-24T14:08:30.000Z</updated>
-        <summary type="html"><![CDATA[Milkey😘]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruksar😍]]></title>
-        <id>https://nitter.cz/Rampage0690/status/1716802781263097882#m</id>
-        <link href="https://nitter.cz/Rampage0690/status/1716802781263097882#m"/>
-        <updated>2023-10-24T13:04:14.000Z</updated>
-        <summary type="html"><![CDATA[Ruksar😍]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sanya🔥]]></title>
-        <id>https://nitter.cz/Rampage0690/status/1716801483658977538#m</id>
-        <link href="https://nitter.cz/Rampage0690/status/1716801483658977538#m"/>
-        <updated>2023-10-24T12:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Sanya🔥]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reba😘]]></title>
-        <id>https://nitter.cz/Rampage0690/status/1716796822600171988#m</id>
-        <link href="https://nitter.cz/Rampage0690/status/1716796822600171988#m"/>
-        <updated>2023-10-24T12:40:33.000Z</updated>
-        <summary type="html"><![CDATA[Reba😘]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💣]]></title>
-        <id>https://nitter.cz/Rampage0690/status/1716792679969800238#m</id>
-        <link href="https://nitter.cz/Rampage0690/status/1716792679969800238#m"/>
-        <updated>2023-10-24T12:24:06.000Z</updated>
-        <summary type="html"><![CDATA[💣]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leelai💣]]></title>
-        <id>https://nitter.cz/Rampage0690/status/1716773891283079238#m</id>
-        <link href="https://nitter.cz/Rampage0690/status/1716773891283079238#m"/>
-        <updated>2023-10-24T11:09:26.000Z</updated>
-        <summary type="html"><![CDATA[Leelai💣]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[After 🐕 session]]></title>
         <id>https://nitter.cz/alpha_leporis/status/1716773016846426496#m</id>
         <link href="https://nitter.cz/alpha_leporis/status/1716773016846426496#m"/>
@@ -780,26 +762,6 @@ Period 💫]]></summary>
         <summary type="html"><![CDATA[👅👅 expressions]]></summary>
         <author>
             <name>@alpha_leporis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leela🤤]]></title>
-        <id>https://nitter.cz/Rampage0690/status/1716771840331227309#m</id>
-        <link href="https://nitter.cz/Rampage0690/status/1716771840331227309#m"/>
-        <updated>2023-10-24T11:01:17.000Z</updated>
-        <summary type="html"><![CDATA[Leela🤤]]></summary>
-        <author>
-            <name>@Rampage0690</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leela🔥]]></title>
-        <id>https://nitter.cz/Rampage0690/status/1716769843502858686#m</id>
-        <link href="https://nitter.cz/Rampage0690/status/1716769843502858686#m"/>
-        <updated>2023-10-24T10:53:21.000Z</updated>
-        <summary type="html"><![CDATA[Leela🔥]]></summary>
-        <author>
-            <name>@Rampage0690</name>
         </author>
     </entry>
     <entry>
@@ -833,7 +795,7 @@ Period 💫]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smoo🥵]]></title>
+        <title type="html"><![CDATA[RT by @Rampage0690: Smoo🥵]]></title>
         <id>https://nitter.cz/Rampage0690/status/1716749512335659492#m</id>
         <link href="https://nitter.cz/Rampage0690/status/1716749512335659492#m"/>
         <updated>2023-10-24T09:32:34.000Z</updated>
@@ -850,16 +812,6 @@ Period 💫]]></summary>
         <summary type="html"><![CDATA[The beauty of festival ✨🥵]]></summary>
         <author>
             <name>@GlamspotA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ket🤤🔥]]></title>
-        <id>https://nitter.cz/Rampage0690/status/1716730854603722938#m</id>
-        <link href="https://nitter.cz/Rampage0690/status/1716730854603722938#m"/>
-        <updated>2023-10-24T08:18:25.000Z</updated>
-        <summary type="html"><![CDATA[Ket🤤🔥]]></summary>
-        <author>
-            <name>@Rampage0690</name>
         </author>
     </entry>
     <entry>
@@ -932,16 +884,6 @@ Period 💫]]></summary>
         <summary type="html"><![CDATA[Deepika Padukone 🤍🤌🔥]]></summary>
         <author>
             <name>@ActressHQ_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raashi🥵]]></title>
-        <id>https://nitter.cz/Rampage0690/status/1716664380916687314#m</id>
-        <link href="https://nitter.cz/Rampage0690/status/1716664380916687314#m"/>
-        <updated>2023-10-24T03:54:17.000Z</updated>
-        <summary type="html"><![CDATA[Raashi🥵]]></summary>
-        <author>
-            <name>@Rampage0690</name>
         </author>
     </entry>
     <entry>
@@ -1875,16 +1817,6 @@ instagram.com/reel/CytIq17vF…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Payal R 😳]]></title>
-        <id>https://nitter.cz/GlamspotA/status/1715632438037381544#m</id>
-        <link href="https://nitter.cz/GlamspotA/status/1715632438037381544#m"/>
-        <updated>2023-10-21T07:33:42.000Z</updated>
-        <summary type="html"><![CDATA[Payal R 😳]]></summary>
-        <author>
-            <name>@GlamspotA</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Katrina Kaif 🔥]]></title>
         <id>https://nitter.cz/acviralhub/status/1715618418102353989#m</id>
         <link href="https://nitter.cz/acviralhub/status/1715618418102353989#m"/>
@@ -1925,16 +1857,6 @@ instagram.com/reel/CytIq17vF…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Disha Patani in Calvin Klein 🥵🔥]]></title>
-        <id>https://nitter.cz/GlamspotA/status/1715543886087815489#m</id>
-        <link href="https://nitter.cz/GlamspotA/status/1715543886087815489#m"/>
-        <updated>2023-10-21T01:41:50.000Z</updated>
-        <summary type="html"><![CDATA[Disha Patani in Calvin Klein 🥵🔥]]></summary>
-        <author>
-            <name>@GlamspotA</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Neha #NehaSharma]]></title>
         <id>https://nitter.cz/actress_corner/status/1715488531412623664#m</id>
         <link href="https://nitter.cz/actress_corner/status/1715488531412623664#m"/>
@@ -1965,16 +1887,6 @@ instagram.com/reel/CytIq17vF…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Palak Tiwari 🍎]]></title>
-        <id>https://nitter.cz/GlamspotA/status/1715431917435445696#m</id>
-        <link href="https://nitter.cz/GlamspotA/status/1715431917435445696#m"/>
-        <updated>2023-10-20T18:16:54.000Z</updated>
-        <summary type="html"><![CDATA[Palak Tiwari 🍎]]></summary>
-        <author>
-            <name>@GlamspotA</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Anjali #anjaliarora]]></title>
         <id>https://nitter.cz/actress_corner/status/1715428003155709964#m</id>
         <link href="https://nitter.cz/actress_corner/status/1715428003155709964#m"/>
@@ -1992,16 +1904,6 @@ instagram.com/reel/CytIq17vF…]]></summary>
         <summary type="html"><![CDATA[Kangana #kanganasharma]]></summary>
         <author>
             <name>@actress_corner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KASTHURI]]></title>
-        <id>https://nitter.cz/alpha_leporis/status/1715407795145580607#m</id>
-        <link href="https://nitter.cz/alpha_leporis/status/1715407795145580607#m"/>
-        <updated>2023-10-20T16:41:03.000Z</updated>
-        <summary type="html"><![CDATA[KASTHURI]]></summary>
-        <author>
-            <name>@alpha_leporis</name>
         </author>
     </entry>
     <entry>
@@ -2054,26 +1956,6 @@ instagram.com/reel/CytIq17vF…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kiara Advani 🔥]]></title>
-        <id>https://nitter.cz/acviralhub/status/1715296663299031304#m</id>
-        <link href="https://nitter.cz/acviralhub/status/1715296663299031304#m"/>
-        <updated>2023-10-20T09:19:27.000Z</updated>
-        <summary type="html"><![CDATA[Kiara Advani 🔥]]></summary>
-        <author>
-            <name>@acviralhub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B00BA 💥]]></title>
-        <id>https://nitter.cz/alpha_leporis/status/1715295465594662929#m</id>
-        <link href="https://nitter.cz/alpha_leporis/status/1715295465594662929#m"/>
-        <updated>2023-10-20T09:14:42.000Z</updated>
-        <summary type="html"><![CDATA[B00BA 💥]]></summary>
-        <author>
-            <name>@alpha_leporis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT by @Kiarastannn: Sone tu kinni soni lagdi oye #KiaraAdvani]]></title>
         <id>https://nitter.cz/Kiarastann/status/1715281975542759589#m</id>
         <link href="https://nitter.cz/Kiarastann/status/1715281975542759589#m"/>
@@ -2111,16 +1993,6 @@ instagram.com/reel/CytIq17vF…]]></summary>
         <summary type="html"><![CDATA[Laado #TamannaahBhatia #Tamannaah]]></summary>
         <author>
             <name>@tamannaahstann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disha Patani 🔥]]></title>
-        <id>https://nitter.cz/acviralhub/status/1715228185246511529#m</id>
-        <link href="https://nitter.cz/acviralhub/status/1715228185246511529#m"/>
-        <updated>2023-10-20T04:47:21.000Z</updated>
-        <summary type="html"><![CDATA[Disha Patani 🔥]]></summary>
-        <author>
-            <name>@acviralhub</name>
         </author>
     </entry>
     <entry>
@@ -2197,26 +2069,6 @@ instagram.com/reel/CytIq17vF…]]></summary>
         <summary type="html"><![CDATA[Shama #shamasikander]]></summary>
         <author>
             <name>@actress_corner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shreya 🔥👙]]></title>
-        <id>https://nitter.cz/acviralhub/status/1715034768679793068#m</id>
-        <link href="https://nitter.cz/acviralhub/status/1715034768679793068#m"/>
-        <updated>2023-10-19T15:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Shreya 🔥👙]]></summary>
-        <author>
-            <name>@acviralhub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Esha Gupta 🔥]]></title>
-        <id>https://nitter.cz/acviralhub/status/1714990574435246256#m</id>
-        <link href="https://nitter.cz/acviralhub/status/1714990574435246256#m"/>
-        <updated>2023-10-19T13:03:10.000Z</updated>
-        <summary type="html"><![CDATA[Esha Gupta 🔥]]></summary>
-        <author>
-            <name>@acviralhub</name>
         </author>
     </entry>
     <entry>
@@ -2433,16 +2285,6 @@ instagram.com/reel/CytIq17vF…]]></summary>
         <summary type="html"><![CDATA[#bollywoodactress #DeepikaPadukone #facecloseup #shorts]]></summary>
         <author>
             <name>@Mr9964350967</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Sam_RockyEdits: Kajal - The complete package 🥵💯🤤]]></title>
-        <id>https://nitter.cz/Sam_RockyEdits/status/1714501101943439459#m</id>
-        <link href="https://nitter.cz/Sam_RockyEdits/status/1714501101943439459#m"/>
-        <updated>2023-10-18T04:38:11.000Z</updated>
-        <summary type="html"><![CDATA[Kajal - The complete package 🥵💯🤤]]></summary>
-        <author>
-            <name>@Sam_RockyEdits</name>
         </author>
     </entry>
     <entry>
@@ -3329,16 +3171,6 @@ nitter.cz/GlamssWorld/status/1712664155747184936#m]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT by @Janhviworlds: A Dreamer & Achiever #JanhviKapoor]]></title>
-        <id>https://nitter.cz/Janhviworlds/status/1711294979463954799#m</id>
-        <link href="https://nitter.cz/Janhviworlds/status/1711294979463954799#m"/>
-        <updated>2023-10-09T08:18:12.000Z</updated>
-        <summary type="html"><![CDATA[A Dreamer & Achiever #JanhviKapoor]]></summary>
-        <author>
-            <name>@Janhviworlds</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT by @Dishastann: I am so much in love with this Demigoddess #DishaPatani]]></title>
         <id>https://nitter.cz/Dishastann/status/1711294790963429551#m</id>
         <link href="https://nitter.cz/Dishastann/status/1711294790963429551#m"/>
@@ -4149,19 +3981,6 @@ At #BhagavanthKesari Trailer Launch 💥💥
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT by @Norastann: Mother of Hotness 🥵🔥
-
-#JasminBhasin]]></title>
-        <id>https://nitter.cz/JasminBxstanns/status/1707613679372677209#m</id>
-        <link href="https://nitter.cz/JasminBxstanns/status/1707613679372677209#m"/>
-        <updated>2023-09-29T04:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Mother of Hotness 🥵🔥
-#JasminBhasin]]></summary>
-        <author>
-            <name>@JasminBxstanns</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT by @Aliaastann: Guys please follow @JasminBxstanns , the best fanpage in Jasmin Bhasin fandom #JasminBhasin]]></title>
         <id>https://nitter.cz/Rishabhstann/status/1707609837201506396#m</id>
         <link href="https://nitter.cz/Rishabhstann/status/1707609837201506396#m"/>
@@ -4252,16 +4071,6 @@ At #BhagavanthKesari Trailer Launch 💥💥
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT by @Jacquelinestann: Guys please follow @JasminBxstanns , the best fanpage in Jasmin Bhasin fandom #JasminBhasin]]></title>
-        <id>https://nitter.cz/Rishabhstann/status/1707609837201506396#m</id>
-        <link href="https://nitter.cz/Rishabhstann/status/1707609837201506396#m"/>
-        <updated>2023-09-29T04:14:45.000Z</updated>
-        <summary type="html"><![CDATA[Guys please follow @JasminBxstanns , the best fanpage in Jasmin Bhasin fandom #JasminBhasin]]></summary>
-        <author>
-            <name>@Rishabhstann</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT by @Mrunalstan: Guys please follow @JasminBxstanns , the best fanpage in Jasmin Bhasin fandom #JasminBhasin]]></title>
         <id>https://nitter.cz/Rishabhstann/status/1707609837201506396#m</id>
         <link href="https://nitter.cz/Rishabhstann/status/1707609837201506396#m"/>
@@ -4309,16 +4118,6 @@ At #BhagavanthKesari Trailer Launch 💥💥
         <summary type="html"><![CDATA[Being Aesthetic ✨ #DeepikaPadukone]]></summary>
         <author>
             <name>@Deepikastannn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Jacquelinestann: Smile Perfect, Body Perfect #JacquelineFernandez]]></title>
-        <id>https://nitter.cz/Jacquelinestann/status/1707310617705808067#m</id>
-        <link href="https://nitter.cz/Jacquelinestann/status/1707310617705808067#m"/>
-        <updated>2023-09-28T08:25:46.000Z</updated>
-        <summary type="html"><![CDATA[Smile Perfect, Body Perfect #JacquelineFernandez]]></summary>
-        <author>
-            <name>@Jacquelinestann</name>
         </author>
     </entry>
     <entry>
@@ -4401,118 +4200,6 @@ At #BhagavanthKesari Trailer Launch 💥💥
         <summary type="html"><![CDATA[Thanks a lot for 47K Guys, Love you 47000 Times #RakulPreet #RakulPreetSingh]]></summary>
         <author>
             <name>@Rakulstann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Aliaastann: Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></title>
-        <id>https://nitter.cz/GlamssWorld/status/1706930930324308068#m</id>
-        <link href="https://nitter.cz/GlamssWorld/status/1706930930324308068#m"/>
-        <updated>2023-09-27T07:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Nayantharastann: Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></title>
-        <id>https://nitter.cz/GlamssWorld/status/1706930930324308068#m</id>
-        <link href="https://nitter.cz/GlamssWorld/status/1706930930324308068#m"/>
-        <updated>2023-09-27T07:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @tamannaahstann: Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></title>
-        <id>https://nitter.cz/GlamssWorld/status/1706930930324308068#m</id>
-        <link href="https://nitter.cz/GlamssWorld/status/1706930930324308068#m"/>
-        <updated>2023-09-27T07:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Deepikastannn: Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></title>
-        <id>https://nitter.cz/GlamssWorld/status/1706930930324308068#m</id>
-        <link href="https://nitter.cz/GlamssWorld/status/1706930930324308068#m"/>
-        <updated>2023-09-27T07:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Ananyastann: Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></title>
-        <id>https://nitter.cz/GlamssWorld/status/1706930930324308068#m</id>
-        <link href="https://nitter.cz/GlamssWorld/status/1706930930324308068#m"/>
-        <updated>2023-09-27T07:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @SaraxDiaries: Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></title>
-        <id>https://nitter.cz/GlamssWorld/status/1706930930324308068#m</id>
-        <link href="https://nitter.cz/GlamssWorld/status/1706930930324308068#m"/>
-        <updated>2023-09-27T07:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Trishastann: Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></title>
-        <id>https://nitter.cz/GlamssWorld/status/1706930930324308068#m</id>
-        <link href="https://nitter.cz/GlamssWorld/status/1706930930324308068#m"/>
-        <updated>2023-09-27T07:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Mrunalstan: Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></title>
-        <id>https://nitter.cz/GlamssWorld/status/1706930930324308068#m</id>
-        <link href="https://nitter.cz/GlamssWorld/status/1706930930324308068#m"/>
-        <updated>2023-09-27T07:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @rashmikastann: Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></title>
-        <id>https://nitter.cz/GlamssWorld/status/1706930930324308068#m</id>
-        <link href="https://nitter.cz/GlamssWorld/status/1706930930324308068#m"/>
-        <updated>2023-09-27T07:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Shraddhastann: Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></title>
-        <id>https://nitter.cz/GlamssWorld/status/1706930930324308068#m</id>
-        <link href="https://nitter.cz/GlamssWorld/status/1706930930324308068#m"/>
-        <updated>2023-09-27T07:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Vote Your Favourite #Samantha #Nayanthara #Rashmika]]></summary>
-        <author>
-            <name>@GlamssWorld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @Shraddhastann: The Grace + Aura 
-#ShraddhaKapoor]]></title>
-        <id>https://nitter.cz/Shraddhastann/status/1706680713771413577#m</id>
-        <link href="https://nitter.cz/Shraddhastann/status/1706680713771413577#m"/>
-        <updated>2023-09-26T14:42:45.000Z</updated>
-        <summary type="html"><![CDATA[The Grace + Aura 
-#ShraddhaKapoor]]></summary>
-        <author>
-            <name>@Shraddhastann</name>
         </author>
     </entry>
 </feed>
